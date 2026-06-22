@@ -24,3 +24,26 @@ Syra = シーラ
 Gando = ガンドゥ
 Linflas = リンフラス
 Elija = イライジャ
+
+
+## Skills
+
+Fighter = ファイター
+Ninja = ニンジャ
+Priest = プリースト
+Wizard = ウィザード
+
+
+## Statistics
+
+Health = ヘルス
+Stamina = スタミナ
+Mana = マナ
+
+Strength = 強さ
+Dexterity = 機敏さ
+Wisdom = 賢さ
+Vitality = 生命力
+Anti-Magic = 耐魔法力
+Anti-Fire = 耐火力
+Load = ロード
