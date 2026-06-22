@@ -68,7 +68,7 @@ C22 (11,10) Gando Thurfoot
 C23 (12,09) Linflas
 C24 (09,07) Elija Lion Of Yaitopya
 
-## Japanese LEVEL 00 MAP
+## Japanese LEVEL 01 MAP
 ```
   0000000000111111111
   0123456789012345678
