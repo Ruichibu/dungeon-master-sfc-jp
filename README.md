@@ -23,9 +23,20 @@ Only data originating from the official game versions listed above is considered
 
 This repository follows the Japanese Super Famicom version level numbering.
 
-Japanese LEVEL1 = International LEVEL0
-Japanese LEVEL2 = International LEVEL1
-Japanese LEVEL3 = International LEVEL2
+Japanese LEVEL01 = International LEVEL00
+Japanese LEVEL02 = International LEVEL01
+Japanese LEVEL03 = International LEVEL02
+Japanese LEVEL04 = International LEVEL03
+Japanese LEVEL05 = International LEVEL04
+Japanese LEVEL06 = International LEVEL05
+Japanese LEVEL07 = International LEVEL06
+Japanese LEVEL08 = International LEVEL07
+Japanese LEVEL09 = International LEVEL08
+Japanese LEVEL10 = International LEVEL09
+Japanese LEVEL11 = International LEVEL10
+Japanese LEVEL12 = International LEVEL11
+Japanese LEVEL13 = International LEVEL12
+Japanese LEVEL14 = International LEVEL13
 
 The Japanese Super Famicom level numbering is considered canonical within this repository. Any alternative numbering schemes are derived representations.
 
