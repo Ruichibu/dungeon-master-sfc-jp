@@ -19,26 +19,26 @@ Only data originating from the official game versions listed above is considered
 
 ## Level Numbering
 
+This repository follows the **English version** level numbering as canonical. The Japanese Super Famicom version level numbers are derived representations calculated by adding 1 to the English version level number.
+
+English ver LEVEL 00 = Japanese ver LEVEL 01
+English ver LEVEL 01 = Japanese ver LEVEL 02
+English ver LEVEL 02 = Japanese ver LEVEL 03
+English ver LEVEL 03 = Japanese ver LEVEL 04
+English ver LEVEL 04 = Japanese ver LEVEL 05
+English ver LEVEL 05 = Japanese ver LEVEL 06
+English ver LEVEL 06 = Japanese ver LEVEL 07
+English ver LEVEL 07 = Japanese ver LEVEL 08
+English ver LEVEL 08 = Japanese ver LEVEL 09
+English ver LEVEL 09 = Japanese ver LEVEL 10
+English ver LEVEL 10 = Japanese ver LEVEL 11
+English ver LEVEL 11 = Japanese ver LEVEL 12
+English ver LEVEL 12 = Japanese ver LEVEL 13
+English ver LEVEL 13 = Japanese ver LEVEL 14
+
+The English version level numbering is considered canonical within this repository. Any alternative numbering schemes (such as the Japanese SFC version) are derived representations.
+
 ## Coordinate System
-
-This repository follows the Japanese Super Famicom version level numbering.
-
-Japanese LEVEL 01 = International LEVEL 00
-Japanese LEVEL 02 = International LEVEL 01
-Japanese LEVEL 03 = International LEVEL 02
-Japanese LEVEL 04 = International LEVEL 03
-Japanese LEVEL 05 = International LEVEL 04
-Japanese LEVEL 06 = International LEVEL 05
-Japanese LEVEL 07 = International LEVEL 06
-Japanese LEVEL 08 = International LEVEL 07
-Japanese LEVEL 09 = International LEVEL 08
-Japanese LEVEL 10 = International LEVEL 09
-Japanese LEVEL 11 = International LEVEL 10
-Japanese LEVEL 12 = International LEVEL 11
-Japanese LEVEL 13 = International LEVEL 12
-Japanese LEVEL 14 = International LEVEL 13
-
-The Japanese Super Famicom level numbering is considered canonical within this repository. Any alternative numbering schemes are derived representations.
 
 This repository uses the original Dungeon Master global coordinates.
 
