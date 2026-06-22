@@ -4,7 +4,7 @@ The original Dungeon Master did not assign explicit spell names.
 
 However, terminology found in Japanese Super Famicom strategy books and related publications is highly consistent.
 
-Not only spell names, but also minor orthographic details (e.g., ヴァイタリティー・ポーション, デクスタリティー・ポーション, ファイアー・シールド) are identical across multiple independent sources.
+Not only spell names, but also minor orthographic details (Examples: ヴァイタリティー・ポーション, デクスタリティー・ポーション, ファイアー・シールド) are identical across multiple independent sources.
 
 Therefore, this repository adopts these terms as the de facto standard terminology of the Japanese SFC version.
 
