@@ -22,7 +22,7 @@ Only data originating from the official game versions listed above is considered
 To bridge the gap between global technical data and the Japanese community's conventions, this repository establishes a clear mapping between the English canonical database notation and the Japanese representation.
 
 - **English version (Encyclopaedia/Technical Standard):** Numbers floors from **LEVEL 00 to LEVEL 13**.
-- **Japanese version (Community/Guidebook Standard):** Numbers floors from **LEVEL 01 to LEVEL 14** due to the 1st floor being explicitly recognized as Level 01.
+- **Japanese version (Official Manual/Community Standard):** Numbers floors from **LEVEL 01 to LEVEL 14** as the official Japanese instruction manual explicitly designates the 1st floor as LEVEL 01.
 
 All map files and cross-references within this repository use the following unified mapping:
 
