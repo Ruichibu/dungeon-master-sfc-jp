@@ -1,4 +1,4 @@
-# INSCRIPTION_MAPPING.md
+# inscription-mapping.md
 
 
 ## LEVEL 00
