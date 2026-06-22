@@ -1,11 +1,3 @@
-## Spell Names
-
-The original Dungeon Master did not assign explicit names to spells beyond their rune combinations and effects.
-
-However, the Japanese Super Famicom community consistently used a unified set of spell names. These names are found in the SFC manual (for beginner spells), multiple contemporary strategy books, and archived Japanese fan resources.
-
-Therefore, this repository adopts these names as the de facto standard spell names of the SFC version.
-
 ## Japanese Terminology Policy
 
 The original Dungeon Master did not assign explicit spell names.
@@ -16,7 +8,7 @@ Not only spell names, but also minor orthographic details (e.g., ヴァイタリ
 
 Therefore, this repository adopts these terms as the de facto standard terminology of the Japanese SFC version.
 
-# Priest Spells
+## Priest Spells
 Vi = ヘルス・ポーション
 Ya = スタミナ・ポーション
 Zo Bro Ra = マナ・ポーション
@@ -30,7 +22,7 @@ Ful Bro Neta = ファイアー・シールド
 Ya Ir = シールド・スペル
 Des Ir Sar = ダークネス
 
-# Wizard Spells
+## Wizard Spells
 Ful = マジック・トーチ
 Oh Ir Ra = ライト
 Zo = ドア・オープン
