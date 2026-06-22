@@ -1,4 +1,4 @@
-# ITEM_MAPING.md
+# item-mapping.md
 
 
 ## Weapons
