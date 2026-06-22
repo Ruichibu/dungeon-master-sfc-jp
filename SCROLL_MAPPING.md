@@ -1,3 +1,6 @@
+# SCROLL_MAPPING.md
+
+
 ## LEVEL 00
 
 Invoke Ful for a magic torch = 呪文フルを唱えよ 魔法の灯が あらわれよう
