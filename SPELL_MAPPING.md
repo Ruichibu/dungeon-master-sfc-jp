@@ -1,3 +1,5 @@
+# SPELL_MAPPING.md
+
 ## Japanese Terminology Policy
 
 The original Dungeon Master did not assign explicit spell names.
