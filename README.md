@@ -26,7 +26,7 @@ To bridge the gap between global technical data and the Japanese community's con
 
 All map files and cross-references within this repository use the following unified mapping:
 
-| English Notation | Japanese Notation | Floor (English) | 画面表記 (Japanese) |
+| English Notation | Japanese Notation | Floor (English) | 階層 (Japanese) |
 | :--- | :--- | :--- | :--- |
 | **LEVEL 00** | LEVEL 01 | 1st floor | 1階 |
 | **LEVEL 01** | LEVEL 02 | basement 1st floor | 地下1階 |
