@@ -1,4 +1,4 @@
-# CHAMPION_MAPPING.md
+# champion-mapping.md
 
 
 ## Champions
