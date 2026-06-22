@@ -1,3 +1,6 @@
+# INSCRIPTION_MAPPING.md
+
+
 ## LEVEL 00
 
 Hall Of Champions = 勇者の館
