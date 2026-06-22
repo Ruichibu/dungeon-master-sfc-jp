@@ -19,24 +19,29 @@ Only data originating from the official game versions listed above is considered
 
 ## Level Numbering
 
-This repository follows the **English version** level numbering as canonical. The Japanese Super Famicom version level numbers are derived representations calculated by adding 1 to the English version level number.
+To bridge the gap between global technical data and the Japanese community's conventions, this repository establishes a clear mapping between the English canonical database notation and the Japanese representation.
 
-English ver LEVEL 00 = Japanese ver LEVEL 01
-English ver LEVEL 01 = Japanese ver LEVEL 02
-English ver LEVEL 02 = Japanese ver LEVEL 03
-English ver LEVEL 03 = Japanese ver LEVEL 04
-English ver LEVEL 04 = Japanese ver LEVEL 05
-English ver LEVEL 05 = Japanese ver LEVEL 06
-English ver LEVEL 06 = Japanese ver LEVEL 07
-English ver LEVEL 07 = Japanese ver LEVEL 08
-English ver LEVEL 08 = Japanese ver LEVEL 09
-English ver LEVEL 09 = Japanese ver LEVEL 10
-English ver LEVEL 10 = Japanese ver LEVEL 11
-English ver LEVEL 11 = Japanese ver LEVEL 12
-English ver LEVEL 12 = Japanese ver LEVEL 13
-English ver LEVEL 13 = Japanese ver LEVEL 14
+- **English version (Encyclopaedia/Technical Standard):** Numbers floors from **LEVEL 00 to LEVEL 13**.
+- **Japanese version (Community/Guidebook Standard):** Numbers floors from **LEVEL 01 to LEVEL 14** due to the 1st floor being explicitly recognized as Level 01.
 
-The English version level numbering is considered canonical within this repository. Any alternative numbering schemes (such as the Japanese SFC version) are derived representations.
+All map files and cross-references within this repository use the following unified mapping:
+
+| English Notation | Japanese Notation | Floor (English) | 画面表記 (Japanese) |
+| :--- | :--- | :--- | :--- |
+| **LEVEL 00** | LEVEL 01 | 1st floor | 1階 |
+| **LEVEL 01** | LEVEL 02 | basement 1st floor | 地下1階 |
+| **LEVEL 02** | LEVEL 03 | basement 2nd floor | 地下2階 |
+| **LEVEL 03** | LEVEL 04 | basement 3rd floor | 地下3階 |
+| **LEVEL 04** | LEVEL 05 | basement 4th floor | 地下4階 |
+| **LEVEL 05** | LEVEL 06 | basement 5th floor | 地下5階 |
+| **LEVEL 06** | LEVEL 07 | basement 6th floor | 地下6階 |
+| **LEVEL 07** | LEVEL 08 | basement 7th floor | 地下7階 |
+| **LEVEL 08** | LEVEL 09 | basement 8th floor | 地下8階 |
+| **LEVEL 09** | LEVEL 10 | basement 9th floor | 地下9階 |
+| **LEVEL 10** | LEVEL 11 | basement 10th floor | 地下10階 |
+| **LEVEL 11** | LEVEL 12 | basement 11th floor | 地下11階 |
+| **LEVEL 12** | LEVEL 13 | basement 12th floor | 地下12階 |
+| **LEVEL 13** | LEVEL 14 | basement 13th floor | 地下13階 |
 
 ## Coordinate System
 
