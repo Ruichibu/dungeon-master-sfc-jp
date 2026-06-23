@@ -1,4 +1,4 @@
-#creatures-mapping.md
+# creatures-mapping.md
 
 # Creatures Mapping (SFC Japanese Standard)
 
