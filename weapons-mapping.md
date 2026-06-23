@@ -43,4 +43,4 @@ Dragon Spit = 竜の杖
 Sceptre Of Lyf = 生命の杖
 Horn Of Fear = 恐怖の角笛
 Speedbow = スピードボウ
-The Firestaff = 炎の杖
+The Firestaff (Complete) = 炎の杖
