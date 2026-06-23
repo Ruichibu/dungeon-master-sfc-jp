@@ -1,4 +1,4 @@
-# SPELL_MAPPING.md
+# spells-mapping.md
 
 ## Japanese Terminology Policy
 
