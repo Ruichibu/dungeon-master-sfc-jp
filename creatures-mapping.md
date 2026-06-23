@@ -2,30 +2,30 @@
 
 Mummy = マミー
 Screamer = スクリーマー
-Rockpile = ロックパイル
-Trolin = ブルートロール
+Rockpile = ロック・パイル
+Trolin = ブルー・トロール
 Magenta Worm = ワーム
-Giant Wasp = ジャイアントワスプ
+Giant Wasp = ジャイアント・ワスプ
 Ghost = ゴースト
 Swamp Slime = シュリーカー
 Couatl = クワトゥル
 Wizard Eye = ビホルダー
 Skeleton = スケルトン
-Stone Golem = ストーンゴーレム
-Giggler = 
-Pain Rat = 
+Stone Golem = ストーン・ゴーレム
+Giggler = ギグラー
+Pain Rat = ジャイアント・ラット
 Vexirk = モン・ベクサーク
 Ruster = ラスター
-Giant Scorpion = ジャイアントスコーピオン
-Water Elemental = ウォーターエレメンタル
-Animated Armour = アニメイテッドアーマー
+Giant Scorpion = ジャイアント・スコーピオン
+Water Elemental = ウォーター・エレメンタル
+Animated Armour = デス・ナイト
 Oitu = オイトゥ
-Materializer = スペルバイン
-Black Flame = ブラックフレーム
-Demon = ファイアーデーモン
-Red Dragon = レッドドラゴン
-Lord Chaos = ロードカオス
-Lord Order = ロードリブラスルス
+Materializer = スペル・バイン
+Black Flame = ブラック・フレーム
+Demon = ファイアー・デーモン
+Red Dragon = レッド・ドラゴン
+Lord Chaos = ロード・カオス
+Lord Order = ロード・リブラスルス
 Grey Lord = グレイロード
 
 Encyclopaedia|ダンジョンマスター ガイドブック_1990-09-07|ダンジョン・マスターパーフェクトガイド_1990-09-29|ダンジョン・マスター全書_1991-07-29|ダンジョン・マスター　SFC版　説明書_1991-12-20|スーパーファミコン ダンジョン・マスター 公式ハンドブック_1992-01-10|ダンジョン・マスター必勝攻略法_1992-01-26|ダンジョンマスター百科 新体験の手引き_1992-02-01|ダンジョン・マスターファンブック_1992-02-25|
