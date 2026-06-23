@@ -1,4 +1,4 @@
-# scroll-mapping.md
+# scrolls-mapping.md
 
 
 ## LEVEL 00 [1階]
