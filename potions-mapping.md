@@ -1,7 +1,7 @@
 # potions-mapping.md
 
 Empty Flask = 空フラスコ
-Ven Potion = 秘薬ヴィー
+Ven Potion = ヴェン爆弾
 Ros Potion = 秘薬ロス
 Ku Potion = 秘薬クー
 Dane Potion = 秘薬デイン
