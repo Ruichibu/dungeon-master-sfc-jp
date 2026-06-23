@@ -3,30 +3,30 @@
 
 ## Champions
 
-Iaido = イアイドー
-Zed = ゼッド
-Chani = チャニ
-Hawk = ホーク
-Boris = ボリス
-Alex = アレックス
-Nabi = ナビ
-Hissssa = ヒッサー
+Iaido Ruyito Chiburi = イアイドー
+Zed Duke Of Banville = ゼッド
+Chani Sayyadina Sihaya = チャニ
+Hawk The Fearless = ホーク
+Boris Wizard Of Baldor = ボリス
+Alex Ander = アレックス
+Nabi The Prophet = ナビ
+Hissssa Lizar Of Makan = ヒッサー
 Gothmog = ゴスモグ
-Sonja = ソンヤ
-Leyla = レイラ
-Mophus = モウファス
-Wuuf = ウーフ
-Stamm = スタム
-Azizi = アジジ
-Leif = リーフ
-Tiggy = ティギー
-Wu Tse = ウー・ツェ
+Sonja She Devil = ソンヤ
+Leyla Shadowseek = レイラ
+Mophus The Healer = モウファス
+Wuuf The Bika = ウーフ
+Stamm Bladecaster = スタム
+Azizi Johari = アジジ
+Leif The Valiant = リーフ
+Tiggy Tamal = ティギー
+Wu Tse Son Of Heaven = ウー・ツェ
 Daroou = ダルー
-Halk = ハルク
-Syra = シーラ
-Gando = ガンドゥ
+Halk The Barbarian = ハルク
+Syra Child Of Nature = シーラ
+Gando Thurfoot = ガンドゥ
 Linflas = リンフラス
-Elija = イライジャ
+Elija Lion Of Yaitopya = イライジャ
 
 
 ## Skills
