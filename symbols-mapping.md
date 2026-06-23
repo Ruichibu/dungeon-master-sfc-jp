@@ -4,8 +4,6 @@ This table records the official rune pronunciations used in the Japanese Super F
 
 Verified against the SFC version.
 
-## RUNE
-
 Lo = ロー
 Um = ウム
 On = オン
