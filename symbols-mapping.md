@@ -1,4 +1,4 @@
-# rune-mapping.md
+# symbols-mapping.md
 
 This table records the official rune pronunciations used in the Japanese Super Famicom version of Dungeon Master.
 
