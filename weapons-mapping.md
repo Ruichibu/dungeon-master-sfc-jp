@@ -1,7 +1,4 @@
-# items-mapping.md
-
-
-## Weapons
+# weapons-mapping.md
 
 Eye Of Time = 時の目
 Stormring = 稲妻リング
