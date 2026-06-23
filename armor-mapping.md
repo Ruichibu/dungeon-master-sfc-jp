@@ -1,59 +1,59 @@
 # armor-mapping.md
 
-Cloak Of Night
-Barbarian Hide
-Sandals
-Leather Boots
-Robe (Body)
-Robe (Legs)
-Fine Robe (Body)
-Fine Robe (Legs)
-Kirtle
-Silk Shirt
-Tabard
-Gunna
-Elven Doublet
-Elven Huke
-Elven Boots
-Leather Jerkin
-Leather Pants
-Suede Boots
-Blue Pants
-Tunic
-Ghi
-Ghi Trousers
-Calista
-Crown Of Nerra
-Bezerker Helm
-Helmet
-Basinet
-Buckler
-Hide Shield
-Wooden Shield
-Small Shield
-Mail Aketon
-Leg Mail
-Mithral Aketon
-Mithral Mail
-Casque'n Coif
-Hosen
-Armet
-Torso Plate
-Leg Plate
-Foot Plate
-Large Shield
-Helm Of Lyte
-Plate Of Lyte
-Poleyn Of Lyte
-Greave Of Lyte
-Shield Of Lyte
-Helm Of Darc
-Plate Of Darc
-Poleyn Of Darc
-Greave Of Darc
-Shield Of Darc
-Dexhelm
-Flamebain
-Powertowers
-Boots Of Speed
-Halter
+Cloak Of Night = 暗黒のマント
+Barbarian Hide = バーバリアンのズボン
+Sandals = サンダル
+Leather Boots = レザーブーツ
+Robe (Body) = ガウン
+Robe (Legs) = ガウン
+Fine Robe (Body) = 
+Fine Robe (Legs) = 
+Kirtle = 
+Silk Shirt = 
+Tabard = 
+Gunna = 
+Elven Doublet = 
+Elven Huke = 
+Elven Boots = 
+Leather Jerkin = 
+Leather Pants = 
+Suede Boots = 
+Blue Pants = 
+Tunic = 
+Ghi = 
+Ghi Trousers = 
+Calista = 
+Crown Of Nerra = 
+Bezerker Helm = 
+Helmet = 
+Basinet = 
+Buckler = 
+Hide Shield = 
+Wooden Shield = 
+Small Shield = 
+Mail Aketon = 
+Leg Mail = 
+Mithral Aketon = 
+Mithral Mail = 
+Casque'n Coif = 
+Hosen = 
+Armet = 
+Torso Plate = 
+Leg Plate = 
+Foot Plate = 
+Large Shield = 
+Helm Of Lyte = 
+Plate Of Lyte = 
+Poleyn Of Lyte = 
+Greave Of Lyte = 
+Shield Of Lyte = 
+Helm Of Darc = 
+Plate Of Darc = 
+Poleyn Of Darc = 
+Greave Of Darc = 
+Shield Of Darc = 
+Dexhelm = 
+Flamebain = 
+Powertowers = 
+Boots Of Speed = 
+Halter = 
