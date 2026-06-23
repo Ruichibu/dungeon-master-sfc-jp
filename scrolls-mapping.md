@@ -35,9 +35,9 @@ The spell Oh Ven cast a cloud of poison. = 呪文オーヴェンは 雲を毒で
 
 
 ## LEVEL 06 [地下6階]
-Fireball Ful Ir. Fire Shield Ful Bro Neta. = 
-Light Oh Ir Ra. Darkness Des Ir Sar. = 
-The keys to passage lie hidden deep. = 
+Fireball Ful Ir. Fire Shield Ful Bro Neta. = 呪文フルイルは焼き 呪文フルブローネタ 火から守る
+Light Oh Ir Ra. Darkness Des Ir Sar. = オーイルラーは光 デスイルサーは暗黒
+The keys to passage lie hidden deep. = 正しき道にいたる鍵は はるかに下に
 Neither Chaos nor Order is truly balanced = 
 The Firestaff can restore balance or destroy it. = 
 The power gem is sealed in the mountain by a strange magical force. = 
