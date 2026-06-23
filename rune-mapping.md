@@ -1,9 +1,10 @@
-# RUNE_MAPPING
+# rune-mapping.md
 
 This table records the official rune pronunciations used in the Japanese Super Famicom version of Dungeon Master.
 
 Verified against the SFC version.
 
+## RUNE
 
 Lo = ロー
 Um = ウム
