@@ -1,3 +1,5 @@
+#creatures-mapping.md
+
 # Creatures Mapping (SFC Japanese Standard)
 
 SFC版『ダンジョン・マスター』における、リアルタイム当時のゲーム環境、主要攻略本の潮流、および幸田佳子氏による小説版（ノベライズ）の設定に完全準拠した、2026年最新の「日本標準」クリーチャー名称マッピングデータ。
