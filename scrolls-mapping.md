@@ -24,8 +24,8 @@ The spell Des Ew weakens nonmaterial beings = 呪文デスユーは あの世の
 
 
 ## LEVEL 03 [地下3階]
-Ya Bro creates a magical shield potion = 
-The spell Oh Ven cast a cloud of poison. = 
+Ya Bro creates a magical shield potion = 呪文ヤーブロー は防御の秘薬 を造り出す
+The spell Oh Ven cast a cloud of poison. = 呪文オーヴェンは 雲を毒で満たす
 
 
 ## LEVEL 04 [地下4階]
