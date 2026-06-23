@@ -1,4 +1,4 @@
-# inscription-mapping.md
+# inscriptions-mapping.md
 
 
 ## LEVEL 00 [1階]
