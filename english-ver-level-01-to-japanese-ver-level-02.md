@@ -122,22 +122,25 @@ W : 点滅テレポーター（Blinking teleporter - 出現、消滅を交互に
 * **I05 (L01, X18, Y41, N) “This fountain accepts one wish.”**
   * ※通路 (L01, X18, Y40)` から南 (S)の壁を向くと読める。水飲み場 (兼銅貨投入口) と向い合せの壁の文字。
 
+## 水飲み場（Water Fountain）
+* ※現在10個前後の配置特定が必要なため、データ定義は一時保留。
+
 
 ##Locks
 
-L01 (00,16) Gold Key
-L02 (03,19) Topaz Key
-L03 (05,19) Gold Key
-L04 (11,27) Emerald Key
-L05 (02,27) Iron Key
-L06 (05,27) Solid Key
-L07 (10,14) Gold Key
-L08 (22,19) Gold Key
-L09 (28,18) Gold Key
-L10 (30,21) Iron Key
-L11 (24,24) Key of B
-L12 (21,35) Gold Key
-L13 (18,40) Copper Coin
+L01 (00,17,N) Gold Key
+L02 (03,18,S) Topaz Key
+L03 (05,18,S) Gold Key
+L04 (12,27,W) Emerald Key
+L05 (02,26,S) Iron Key
+L06 (05,26,S) Solid Key
+L07 (10,15,N) Gold Key
+L08 (23,19,W) Gold Key
+L09 (28,19,N) Gold Key
+L10 (30,22,N) Iron Key
+L11 (24,25,N) Key of B
+L12 (21,36,N) Gold Key
+L13 (18,39,S) Copper Coin
 
 
 ## Creatures
