@@ -27,12 +27,12 @@
 |Oh Ir Ra|オー・イル・ラー|Light|ダンジョンをより明るく照らす|ライト|
 |Zo|ゾー|Open Door (Open/close doors with a button)|魔法で遠距離からドアを開けられる|ドア・オープン|
 |Ya Bro Ros|ヤー・ブロー・ロス|Magic Footprints|魔法の足跡を残す|マジック・フットプリンツ|
-|Oh Ew Ra|オー・ユー・ラー|See Through Walls|壁を透視する|ポイゾン・クラウド|
+|Oh Ew Ra|オー・ユー・ラー|See Through Walls|壁を透視する|シーブズ・アイ|
 |Oh Ew Sar|オー・ユー・サー|Invisibility (Party)|パーティを透明化する|インヴィジビリティー|
 |Zo Ven|ゾー・ヴェン|Poison Potion (Ven Potion)|空フラスコをアクションハンドに所持している場合、ヴェン爆弾を作成する|ポイゾン・ボム|
 |Des Ven|デス・ヴェン|Poison Bolt|毒の矢を放つ|ポイゾン・フォウ|
 |Oh Ven|オー・ヴェン|Poison Cloud|毒の霧を放つ|ポイゾン・クラウド|
 |Des Ew|デス・ユー|Weaken Nonmaterial Beings|耐霊呪文を放つ|ハーム・ノンマテリアル|
-|Ful IR|フル・イル|Fireball|炎の弾を放つ|ファイアー・ボール|
+|Ful Ir|フル・イル|Fireball|炎の弾を放つ|ファイアー・ボール|
 |Oh Kath Ra|オー・キャス・ラー|Lightning Bolt|稲妻の矢を放つ|ライトニング・ボルト|
 |Zo Kath Ra|ゾー・キャス・ラー|Zokathra Spell|力の玉を作成する|ゾー・キャス・ラー|
