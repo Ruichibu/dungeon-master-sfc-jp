@@ -149,20 +149,20 @@ W : 点滅テレポーター（Blinking teleporter - 出現、消滅を交互に
 * **L13 (L01, 18, 39, S) Copper Coin**
 
 
-## Creatures
+## モンスター（Monsters）
 
-01 (06,16) Mummy
-02 (04,27) Screamer
-03 (11,19) Screamer
-04 (13,18) Screamer (4)
-05 (22,19) Screamer (2)
-06 (27,16) Mummy
-07 (31,23) Screamer
-08 (24,27) Mummy
-09 (16,30) Screamer (2)
-10 (27,34) Mummy (3)
-11 (20,43) Screamer (4)
-12 (08,38) Screamer (4) [Torch (Charges=15), Empty Flask]
-13 (05,38) Screamer [Throwing Star]
-14 (03,32) Mummy (4)
-15 (01,33) Mummy (2)
+* **M01 (L01, 06, 16)** Mummy
+* **M02 (L01, 04, 27)** Screamer
+* **M03 (L01, 11, 19)** Screamer
+* **M04 (L01, 13, 18)** Screamer (4)
+* **M05 (L01, 22, 19)** Screamer (2)
+* **M06 (L01, 27, 16)** Mummy
+* **M07 (L01, 31, 23)** Screamer
+* **M08 (L01, 24, 27)** Mummy
+* **M09 (L01, 16, 30)** Screamer (2)
+* **M10 (L01, 27, 34)** Mummy (3)
+* **M11 (L01, 20, 43)** Screamer (4)
+* **M12 (L01, 08, 38)** Screamer (4) [Torch (Charges=15), Empty Flask]
+* **M13 (L01, 05, 38)** Screamer [Throwing Star]
+* **M14 (L01, 03, 32)** Mummy (4)
+* **M15 (L01, 01, 33)** Mummy (2)
