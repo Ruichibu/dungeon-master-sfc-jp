@@ -83,99 +83,104 @@
 ```
 
 
-Items
-01 (14,38) Bezerker Helm, Suede Boots, Leather Pants, Leather Jerkin
-02 (13,38) Arrow, Waterskin, Cheese
-03 (08,38) Compass
-04 (21,23) Chest [Apple, Cheese, Scroll (“Ya will create a stamina potion”), Scroll (“Some doors can be opened with a Zo spell”), Gold Coin (2)]
-05 (17,29) Drumstick
-06 (05,34) Chest [Mirror Of Dawn]
-07 (12,32) Drumstick, Gold Key, Apple, Leather Jerkin
-08 (09,27) Silver Coin
-09 (09,28) Bread
-10 (06,31) Arrow
-11 (05,27) Wand (Charges=15)
-12 (05,23) Chest [Silver Coin, Copper Coin (3), Magical Box (Blue)]
-13 (08,25) Gold Key
-14 (08,23) Corn, Apple, Cheese (2)
-15 (09,24) Leather Pants
-16 (14,20) Bread
-17 (06,12) Cheese
-18 (12,16) Arrow
-19 (12,20) Cheese, Wooden Shield
-20 (05,20) Gold Key, Sabre, Fine Robe (Body), Fine Robe (Legs)
-21 (18,11) Arrow
-22 (27,15) Gold Key
-23 (24,15) Helmet
-24 (24,14) Elven Huke
-25 (28,22) Apple
-26 (34,22) Sling
-27 (32,21) Cheese
-28 (32,19) Apple
-29 (29,14) Rabbit’s Foot
-30 (31,11) Blue Gem, Drumstick
-31 (32,29) Cheese
-32 (30,27) Gold Key
-33 (31,27) Bezerker Helm
-34 (32,27) Bread
-35 (28,33) Arrow
-36 (22,38) Gold Key
-37 (32,40) Ra Key
-38 (32,38) Empty Flask, Scroll (“The spell Des Ew weakens nonmaterial beings”)
-39 (34,39) Torch (Charges=15)
-40 (35,39) Torch (Charges=15)
-41 (35,40) Cheese, Bread, Drumstick, Apple
-42 (32,36) Empty Flask, Mail Aketon
-43 (34,36) Drumstick (2), Sword
+## Items
 
-Inscriptions
-I01 (19,28) “Choose your door choose your fate”
-I02 (16,26) “Chambers of the guardian”
-I03 (16,24) “The vault”
-I04 (14,24) “You must pay for your entrance.”
-I05 (12,26) “Cast your influence, cast your might”
-I06 (18,22) “The Matrix”
-I07 (20,22) “Time is of the essence”
-I08 (20,18) “Hit and run”
-I09 (22,24) “Room of the gem”
-I10 (25,24) “Step right up going down…”
-I11 (22,26) “Creature cavern”
-I12 (32,39) “Vi altar of rebirth”
+* **T01** (L02, 14, 38) Bezerker Helm, Suede Boots, Leather Pants, Leather Jerkin
+* **T02** (L02, 13, 38) Arrow, Waterskin, Cheese
+* **T03** (L02, 08, 38) Compass
+* **T04** (L02, 21, 23) Chest [Apple, Cheese, Scroll (“Ya will create a stamina potion”), Scroll (“Some doors can be opened with a Zo spell”), Gold Coin (2)]
+* **T05** (L02, 17, 29) Drumstick
+* **T06** (L02, 05, 34) Chest [Mirror Of Dawn]
+* **T07** (L02, 12, 32) Drumstick, Gold Key, Apple, Leather Jerkin
+* **T08** (L02, 09, 27) Silver Coin
+* **T09** (L02, 09, 28) Bread
+* **T10** (L02, 06, 31) Arrow
+* **T11** (L02, 05, 27) Wand (Charges=15)
+* **T12** (L02, 05, 23) Chest [Silver Coin, Copper Coin (3), Magical Box (Blue)]
+* **T13** (L02, 08, 25) Gold Key
+* **T14** (L02, 08, 23) Corn, Apple, Cheese (2)
+* **T15** (L02, 09, 24) Leather Pants
+* **T16** (L02, 14, 20) Bread
+* **T17** (L02, 06, 12) Cheese
+* **T18** (L02, 12, 16) Arrow
+* **T19** (L02, 12, 20) Cheese, Wooden Shield
+* **T20** (L02, 05, 20) Gold Key, Sabre, Fine Robe (Body), Fine Robe (Legs)
+* **T21** (L02, 18, 11) Arrow
+* **T22** (L02, 27, 15) Gold Key
+* **T23** (L02, 24, 15) Helmet
+* **T24** (L02, 24, 14) Elven Huke
+* **T25** (L02, 28, 22) Apple
+* **T26** (L02, 34, 22) Sling
+* **T27** (L02, 32, 21) Cheese
+* **T28** (L02, 32, 19) Apple
+* **T29** (L02, 29, 14) Rabbit’s Foot
+* **T30** (L02, 31, 11) Blue Gem, Drumstick
+* **T31** (L02, 32, 29) Cheese
+* **T32** (L02, 30, 27) Gold Key
+* **T33** (L02, 31, 27) Bezerker Helm
+* **T34** (L02, 32, 27) Bread
+* **T35** (L02, 28, 33) Arrow
+* **T36** (L02, 22, 38) Gold Key
+* **T37** (L02, 32, 40) Ra Key
+* **T38** (L02, 32, 38) Empty Flask, Scroll (“The spell Des Ew weakens nonmaterial beings”)
+* **T39** (L02, 34, 39) Torch (Charges=15)
+* **T40** (L02, 35, 39) Torch (Charges=15)
+* **T41** (L02, 35, 40) Cheese, Bread, Drumstick, Apple
+* **T42** (L02, 32, 36) Empty Flask, Mail Aketon
+* **T43** (L02, 34, 36) Drumstick (2), Sword
 
-Locks
-L01 (11,34) Mirror Of Dawn
-L02 (14,24) Gold Coin (2)
-L03 (11,29) Silver Coin
-L04 (05,23) Copper Coin
-L05 (26,24) Blue Gem
-L06 (26,40) Gold Key
-L07 (28,40) Gold Key
-L08 (30,40) Gold Key
-L09 (36,36) Gold Key
-L10 (33,34) Gold Key
+## 壁の文字（Inscriptions）
 
-Notes
-A. (12,26) Cast a Zo spell to open the door, then throw an item to close the pit.
-B. (21,16) Press the button and throw an item in the teleporter.
+* **I01** (L02, 19, 28) “Choose your door choose your fate”
+* **I02** (L02, 16, 26) “Chambers of the guardian”
+* **I03** (L02, 16, 24) “The vault”
+* **I04** (L02, 14, 24) “You must pay for your entrance.”
+* **I05** (L02, 12, 26) “Cast your influence, cast your might”
+* **I06** (L02, 18, 22) “The Matrix”
+* **I07** (L02, 20, 22) “Time is of the essence”
+* **I08** (L02, 20, 18) “Hit and run”
+* **I09** (L02, 22, 24) “Room of the gem”
+* **I10** (L02, 25, 24) “Step right up going down…”
+* **I11** (L02, 22, 26) “Creature cavern”
+* **I12** (L02, 32, 39) “Vi altar of rebirth”
 
-Creatures
-01 (15,30) Trolin (3)
-02 (13,34) Rockpile
-03 (12,32) Mummy (2)
-04 (11,22) Trolin (2)
-05 (11,23) Mummy (4)
-06 (06,29) Rockpile (2)
-07 (06,26) Trolin (1)
-08 (05,25) Trolin (4) [Cheese]
-09 (23,12) Trolin (2)
-10 (26,19) Rockpile (2)
-11 (35,29) Trolin (2)
-12 (32,21) Mummy (4)
-13 (32,17) Rockpile (2)
-14 (24,30) Trolin (2)
-15 (22,31) Mummy (3)
-16 (28,37) Trolin (3)
-17 (29,38) Trolin Generator (1-4)
-18 (25,37) Trolin (4) [Screamer Slice, Cheese]
-19 (32,36) Rockpile (2)
-20 (34,36) Trolin (2)
+## 鍵穴・施錠（Locks）
+
+* **L01** (L02, 11, 34) Mirror Of Dawn
+* **L02** (L02, 14, 24) Gold Coin (2)
+* **L03** (L02, 11, 29) Silver Coin
+* **L04** (L02, 05, 23) Copper Coin
+* **L05** (L02, 26, 24) Blue Gem
+* **L06** (L02, 26, 40) Gold Key
+* **L07** (L02, 28, 40) Gold Key
+* **L08** (L02, 30, 40) Gold Key
+* **L09** (L02, 36, 36) Gold Key
+* **L10** (L02, 33, 34) Gold Key
+
+## 特殊ギミック注記（Notes）
+
+* **N01** (L02, 12, 26) Cast a Zo spell to open the door, then throw an item to close the pit.
+* **N02** (L02, 21, 16) Press the button and throw an item in the teleporter.
+
+## モンスター（Creatures）
+
+* **M01** (L02, 15, 30) Trolin (3)
+* **M02** (L02, 13, 34) Rockpile
+* **M03** (L02, 12, 32) Mummy (2)
+* **M04** (L02, 11, 22) Trolin (2)
+* **M05** (L02, 11, 23) Mummy (4)
+* **M06** (L02, 06, 29) Rockpile (2)
+* **M07** (L02, 06, 26) Trolin (1)
+* **M08** (L02, 05, 25) Trolin (4) [Drop: Cheese]
+* **M09** (L02, 23, 12) Trolin (2)
+* **M10** (L02, 26, 19) Rockpile (2)
+* **M11** (L02, 35, 29) Trolin (2)
+* **M12** (L02, 32, 21) Mummy (4)
+* **M13** (L02, 32, 17) Rockpile (2)
+* **M14** (L02, 24, 30) Trolin (2)
+* **M15** (L02, 22, 31) Mummy (3)
+* **M16** (L02, 28, 37) Trolin (3)
+* **M17** (L02, 29, 38) Trolin Generator (1-4)
+* **M18** (L02, 25, 37) Trolin (4) [Drop: Screamer Slice, Cheese]
+* **M19** (L02, 32, 36) Rockpile (2)
+* **M20** (L02, 34, 36) Trolin (2)
