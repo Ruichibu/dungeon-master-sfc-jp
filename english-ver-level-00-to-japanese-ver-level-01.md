@@ -99,27 +99,27 @@ W : 点滅テレポーター（Blinking teleporter - 出現、消滅を交互に
 
 ## 勇者 (Champions)
 
-C01 (10,04) Iaido Ruyito Chiburi
-C02 (10,05) Zed Duke Of Banville
-C03 (14,03) Chani Sayyadina Sihaya
-C04 (15,04) Hawk The Fearless
-C05 (14,06) Boris Wizard Of Baldor
-C06 (16,08) Alex Ander
-C07 (17,09) Nabi The Prophet
-C08 (16,14) Hissssa Lizar Of Makan
-C09 (16,17) Gothmog
-C10 (14,12) Sonja She Devil
-C11 (13,12) Leyla Shadowseek
-C12 (13,14) Mophus The Healer
-C13 (12,13) Wuuf The Bika
-C14 (11,15) Stamm Bladecaster
-C15 (07,16) Azizi Johari
-C16 (08,15) Leif The Valiant
-C17 (09,13) Tiggy Tamal
-C18 (07,13) Wu Tse Son Of Heaven
-C19 (06,13) Daroou
-C20 (07,09) Halk The Barbarian
-C21 (09,09) Syra Child Of Nature
-C22 (11,10) Gando Thurfoot
-C23 (12,09) Linflas
-C24 (09,07) Elija Lion Of Yaitopya
+* **C01** (L00, 10, 03, S) Iaido Ruyito Chiburi
+* **C02** (L00, 10, 06, N) Zed Duke Of Banville
+* **C03** (L00, 14, 02, S) Chani Sayyadina Sihaya
+* **C04** (L00, 16, 04, W) Hawk The Fearless
+* **C05** (L00, 14, 07, N) Boris Wizard Of Baldor
+* **C06** (L00, 16, 07, S) Alex Ander
+* **C07** (L00, 17, 10, N) Nabi The Prophet
+* **C08** (L00, 16, 15, N) Hissssa Lizar Of Makan
+* **C09** (L00, 16, 16, S) Gothmog
+* **C10** (L00, 15, 12, W) Sonja She Devil
+* **C11** (L00, 13, 11, S) Leyla Shadowseek
+* **C12** (L00, 14, 14, W) Mophus The Healer
+* **C13** (L00, 11, 13, E) Wuuf The Bika
+* **C14** (L00, 11, 16, N) Stamm Bladecaster
+* **C15** (L00, 07, 17, N) Azizi Johari
+* **C16** (L00, 08, 14, S) Leif The Valiant
+* **C17** (L00, 10, 13, W) Tiggy Tamal
+* **C18** (L00, 07, 14, N) Wu Tse Son Of Heaven
+* **C19** (L00, 05, 13, E) Daroou
+* **C20** (L00, 07, 08, S) Halk The Barbarian
+* **C21** (L00, 09, 10, N) Syra Child Of Nature
+* **C22** (L00, 11, 11, N) Gando Thurfoot
+* **C23** (L00, 12, 08, S) Linflas
+* **C24** (L00, 08, 07, E) Elija Lion Of Yaitopya
