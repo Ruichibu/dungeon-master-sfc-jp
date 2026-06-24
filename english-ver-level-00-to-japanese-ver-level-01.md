@@ -83,10 +83,10 @@ W : 点滅テレポーター（Blinking teleporter - 出現、消滅を交互に
 
 ## 壁の文字（Inscriptions）
 
-* **I01 (L00, 08, 05, N) “Hall Of Champions”**
-  * ※通路 `(L00, 08, 04)` に立ち、南（S）の壁を向くと読める。
-* **I02 (L00, 05, 17, W) “Vi Altar Of Rebirth”**
-  * ※通路 `(L00, 04, 17)` に立ち、東（E）の壁を向くと読める。
+* **I01 (L00, X08, Y05, N) “Hall Of Champions”**
+  * ※通路 `(L00, X08, Y04)` に立ち、南（S）の壁を向くと読める。
+* **I02 (L00, X05, Y17, W) “Vi Altar Of Rebirth”**
+  * ※通路 `(L00, X04, Y17)` に立ち、東（E）の壁を向くと読める。
 
 ##Champions
 
