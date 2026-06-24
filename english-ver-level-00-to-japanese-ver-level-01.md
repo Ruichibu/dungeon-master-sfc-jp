@@ -88,7 +88,7 @@ W : 点滅テレポーター（Blinking teleporter - 出現、消滅を交互に
 * **I02 (L00, X05, Y17, W) “Vi Altar Of Rebirth”**
   * ※通路 `(L00, X04, Y17)` に立ち、東（E）の壁を向くと読める。
 
-##Champions
+## 勇者 (Champions)
 
 C01 (10,04) Iaido Ruyito Chiburi
 C02 (10,05) Zed Duke Of Banville
