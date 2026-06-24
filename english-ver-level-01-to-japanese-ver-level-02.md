@@ -120,16 +120,12 @@ W : 点滅テレポーター（Blinking teleporter - 出現、消滅を交互に
 
 ## 壁の文字（Inscriptions）
 
-* **I01 (L01, X30, X16, W) “Step inside take a ride**
-  * ※通路 (L01, X29, Y16) から東 (E) の壁を向くと読める。
-* **I02 (L01, X21, Y22, E) “This wall says nothing”**
-  * ※通路 (L01, X22, Y22)` から西 (W) の壁を向くと読める。
-* **I03 (L01, X14, Y30, W) “To close pit leave a valuable on floor”**
-  * ※通路 (L01, X13, Y30)` から東 (E)の壁を向くと読める。落とし穴を閉じるヒントの文字。
-* **I04 (L01, X28, Y42, N) “None shall pass”**
-  * ※通路 (L01, X28, Y41)` から南 (S)の壁を向くと読める。破壊可能なドア (K) の手前。
-* **I05 (L01, X18, Y41, N) “This fountain accepts one wish.”**
-  * ※通路 (L01, X18, Y40)` から南 (S)の壁を向くと読める。水飲み場 (兼銅貨投入口) と向い合せの壁の文字。
+* **I01 (L01, 30, 16, W) “Step inside take a ride”**
+* **I02 (L01, 21, 22, E) “This wall says nothing”**
+* **I03 (L01, 14, 30, W) “To close pit leave a valuable on floor”**
+* **I04 (L01, 28, 42, N) “None shall pass”**
+* **I05 (L01, 18, 41, N) “This fountain accepts one wish.”**
+
 
 ## 水飲み場（Water Fountain）
 * ※現在10個前後の配置特定が必要なため、データ定義は一時保留。
