@@ -38,15 +38,15 @@ The spell Oh Ven cast a cloud of poison. = 呪文オーヴェンは 雲を毒で
 Fireball Ful Ir. Fire Shield Ful Bro Neta. = 呪文フルイルは焼き 呪文フルブローネタ 火から守る
 Light Oh Ir Ra. Darkness Des Ir Sar. = オーイルラーは光 デスイルサーは暗黒
 The keys to passage lie hidden deep. = 正しき道にいたる鍵は はるかに下に
-Neither Chaos nor Order is truly balanced = 
-The Firestaff can restore balance or destroy it. = 
-The power gem is sealed in the mountain by a strange magical force. = 
-Balance is the ultimate good = 
-I fear for the people of the world should the power gem and the Firestaff get in the wrong hands = 
-I have given the Firestaff much power. Power to do and undo. Power to break and mend. = 
-The Firestaff can contain a being of pure alignment with its fluxcage. = 
-Once fluxcaged a being can be transmuted by the power of the staff which should always be used for balance. = 
-Zokathra might create a plasma that could burn through the amalgam encasing the gem. = 
+Neither Chaos nor Order is truly balanced = カオスも、 リブラスルスも、 信じるに値せず
+The Firestaff can restore balance or destroy it. = 炎の杖は 平和にも 破壊にも
+The power gem is sealed in the mountain by a strange magical force. = 力の玉は ふしぎな魔力のやまに ねむる
+Balance is the ultimate good = 信じるまえに 考えよ
+I fear for the people of the world should the power gem and the Firestaff get in the wrong hands = 玉と杖は ただしき手に ゆだねるべし
+I have given the Firestaff much power. Power to do and undo. Power to break and mend. = 炎の杖は 造り、壊す力を 持てり
+The Firestaff can contain a being of pure alignment with its fluxcage. = 炎の杖は 王の四方を呪縛する
+Once fluxcaged a being can be transmuted by the power of the staff which should always be used for balance. = 炎の杖は 呪縛されし王を 融合す
+Zokathra might create a plasma that could burn through the amalgam encasing the gem. = 呪文ゾーキャスラー 力の玉に とどくであろう
 
 
 ## LEVEL 07 [地下7階]
