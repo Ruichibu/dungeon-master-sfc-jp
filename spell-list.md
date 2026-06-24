@@ -1,4 +1,4 @@
-# spells.md
+# spell-list.md
 
 
 ## プリーストの呪文一覧
