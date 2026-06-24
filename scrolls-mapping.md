@@ -75,7 +75,7 @@ The only way out is another way in. = 出たければ 入りなおせ
 
 ## LEVEL 11 [地下11階]
 
-Invisibility Oh Ew Sar = 
+Invisibility Oh Ew Sar = 呪文オーユーサー 敵は汝らを 見うしなう
 
 
 ## LEVEL 12 [地下12階]
