@@ -23,7 +23,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **Ful** | フル | Torch | ダンジョンを明るく照らす | マジック・トーチ |
 | **Oh Ir Ra** | オー・イル・ラー | Light | ダンジョンをより明るく照らす | ライト |
-| **Zo** | ゾー | Open Door (Open/close doors with a button) | 魔法で遠距離からドアを開けられる | ドア・オープン |
+| **Zo** | ゾー | Open Door (Open/close doors with a button) | 魔法で遠距離からドアを開閉する | ドア・オープン |
 | **Ya Bro Ros** | ヤー・ブロー・ロス | Magic Footprints | 魔法の足跡を残す | マジック・フットプリンツ |
 | **Oh Ew Ra** | オー・ユー・ラー | See Through Walls | 壁を透視する | シーブズ・アイ |
 | **Oh Ew Sar** | オー・ユー・サー | Invisibility (Party) | パーティを透明化する | インヴィジビリティー |
