@@ -4,7 +4,7 @@
 ## English ver LEVEL 00 = Japanese ver Level 01 MAP
 
 ## 【座標および階層表記に関する絶対ルール】
-* 座標は `(X, Y, Lxx)` で表記する。
+* 座標は `(Lxx, X, Y,)` で表記する。
   * **X** = 横座標（右に向かって数字が増える：00〜52）
   * **Y** = 縦座標（下に向かって数字が増える：00〜51）
   * **Lxx** = 海外PC版（Dungeon Master Editor基準）の階層表記。
