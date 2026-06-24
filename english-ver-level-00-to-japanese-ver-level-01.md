@@ -47,8 +47,8 @@
   0000000000111111111
   0123456789012345678
 00@@@@@@@@@@@@@@@@@@@00
-01@@@@@@.@@@@@@@@@@@@01
-02@@@@...@@@@@@@@@@@@02
+01@@@@@@.@@.@@@@@@@@@01
+02@D@@...@@@@@@@@@@@@02
 03@.@@.@...@@@@...@@@03
 04@.@@.@.@........@@@04
 05..@@.@@@@...@...@@@05
@@ -98,6 +98,12 @@
   * ※通路 `(L00, X08, Y04)` に立ち、南（S）の壁を向くと読める。
 * **I02 (L00, X05, Y17, W) “Vi Altar Of Rebirth”**
   * ※通路 `(L00, X04, Y17)` に立ち、東（E）の壁を向くと読める。
+
+
+## 特殊ギミック注記（Notes）
+
+* **N01** (L00, 01, 04) You can use the spell “See Through Walls” in front of the door to see Lord Order. If you come back here with the Firestaff (not completed with the power gem), the door opens, then you are teleported in front of Lord Order where you can see an alternate game end.
+* **N02** (L00, 09, 04) Choose four Dungeon Master Champions.
 
 
 ## ヴィーの祭壇 (Altar of VI)
