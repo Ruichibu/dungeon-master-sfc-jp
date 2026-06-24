@@ -57,9 +57,9 @@ The spell Ya Bro Ros leaves a trail of magic footprints. = 呪文ヤーブロー
 
 ## LEVEL 08 [地下8階]
 
-Lightning bolt Oh Kath Ra = 
-Put the gem back… = 
-The spell Oh Ew Ra bestows magic vision. = 
+Lightning bolt Oh Kath Ra = 呪文オーキャスラーは 稲妻をよぶ
+Put the gem back… = 宝を盗むべからず
+The spell Oh Ew Ra bestows magic vision. = 呪文オーユーラーは 透視の術
 
 
 ## LEVEL 09 [地下9階]
