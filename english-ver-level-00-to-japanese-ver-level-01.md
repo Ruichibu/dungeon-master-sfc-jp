@@ -97,6 +97,12 @@ W : 点滅テレポーター（Blinking teleporter - 出現、消滅を交互に
 * **I02 (L00, X05, Y17, W) “Vi Altar Of Rebirth”**
   * ※通路 `(L00, X04, Y17)` に立ち、東（E）の壁を向くと読める。
 
+
+## ヴィーの祭壇 (Altar of VI)
+
+* **A01** (L00, 04, 18, N) 
+
+
 ## 勇者 (Champions)
 
 * **C01** (L00, 10, 03, S) Iaido Ruyito Chiburi
