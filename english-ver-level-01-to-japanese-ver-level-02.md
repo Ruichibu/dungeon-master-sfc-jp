@@ -1,3 +1,37 @@
+# english-ver-level-01-to-japanese-ver-level-02.md
+
+## English ver LEVEL 01 = Japanese ver Level 02 MAP
+
+## 【座標および階層表記に関する絶対ルール】
+* 座標は `(Lxx, X, Y)` で表記する。
+  * **Lxx** = 海外PC版基準の階層表記（L00 = 1階：勇者の館 / L01 = 地下1階）
+  * **X** = 横座標（右に向かって 00〜52）
+  * **Y** = 縦座標（下に向かって 00〜51）
+
+* **【マップ外周（境界線）の絶対ルール】**
+  * 各マップの有効範囲外（Xが00未満、または定義された最大値を超えるエリア / Yが00未満、または最大値を超えるエリア）は、データの有無に関わらず、ゲームシステム上**「絶対に進入不可能な外壁（境界壁）」**として処理される。
+  * そのため、仮に `X=00` や `Y=00` が通路（`.`）であっても、その外側（`X-01` や `Y-01`）へ進むことはできない。
+
+## 【確定したマッピング言語】
+. : 通路（Passage - 通れる）
+@ : 通常の壁（Wall - 通れない）
+F : 偽物の壁（Fake wall - 壁に見えるが、実は通れる通路）
+M : 動く壁（Movable wall - スイッチを押すことで通路になる壁）
+P : 落とし穴（Pit - 同じ座標の一つ下の階に落とされる。ダメージを受ける）
+H : 床に見える落とし穴（Hidden pit - 見えない落とし穴）
+D : 通常の扉（Door - 遠くのスイッチを押したり、レバーを下すことで開閉するドア）
+L : 鍵で開くドア（Locked door - 遠くの鍵穴に鍵を挿しこむことで開くドア）
+B : ボタンが付いてるドア（Door button - ドアに併設されているボタンで開閉できるドア）
+K : 破壊可能なドア（Breakable door - 強力な攻撃で破壊できるドア）
+X : 床スイッチ（Pressure plate - 床を踏むことで動作するスイッチ）
+I : 不可視スイッチ（Invisible plate - 床を踏むことで動作する見えないほど小さなスイッチ）
+U : 上り階段（Stairs up - 一つ上の階へ移動できる）
+S : 下り階段（Stairs down - 一つ下の階へ移動できる）
+T : テレポーター（Teleporter - 違う場所へワープする）
+W : 点滅テレポーター（Blinking teleporter - 出現、消滅を交互に繰り返すテレポート）
+> : 方向転換（Spinner - その場に立つと、方向転換する）
+
+```
   000000000011111111112222222222333
   012345678901234567890123456789012
 13@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@13
@@ -36,3 +70,85 @@
 46@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@46
   000000000011111111112222222222333
   012345678901234567890123456789012
+```
+
+## Items
+
+01 (06,14) Club
+02 (06,17) Corn, Apple, Scroll (“Small details can hide great rewards”), Dagger, Falchion
+03 (00,16) Gold Key
+04 (01,23) Topaz Key
+05 (07,23) Leather Boots, Gold Key
+06 (08,19) Elven Doublet, Dagger, Arrow, Torch (Charges=15), Emerald Key
+07 (04,30) Rock
+08 (15,24) Iron Key, Ghi Trousers
+09 (14,21) Solid Key
+10 (13,22) Falchion
+11 (14,22) Torch (Charges=15), Leather Boots
+12 (08,17) Gold Key
+13 (13,19) Gold Key
+14 (25,14) Boulder
+15 (30,15) Gold Key, Apple
+16 (17,25) Apple
+17 (29,25) Rock
+18 (31,20) Iron Key
+19 (31,24) Key of B
+20 (19,25) Scroll (“Casting Vi into a flask creates a serum that heals wounds”), Empty flask (3), Leather pants, Scroll (“Casting Vi Bro into a flask creates a serum for curing poison”), Drumstick
+21 (16,27) Apple, Cheese (2), Torch (Charges=15)
+22 (13,28) Gold Key, Throwing Star
+23 (30,33) Copper Coin
+24 (30,39) Torch (Charges=15)
+25 (27,43) Chest [Scroll (“Drink these to gain magical defense”), Ya potion (2)]
+26 (12,44) Throwing Star
+27 (13,43) Water (Charges=3)
+28 (14,42) Apple
+29 (16,42) Falchion
+30 (15,45) Magical Box (Blue)
+31 (05,32) Buckler
+32 (02,45) Chest [Drumstick, Corn, Cheese, Bread (2), Magical Box (Blue), Scroll (“Des Ven will conjure a poison spell”), Empty Flask]
+33 (06,43) Torch (Charges=15)
+
+
+##Inscriptions
+
+I01 (29,16) “Step inside take a ride”
+I02 (22,22) “This wall says nothing”
+I03 (13,30) “To close pit leave a valuable on floor”
+I04 (28,41) “None shall pass”
+I05 (18,40) “This fountain accepts one wish.”
+
+
+##Locks
+
+L01 (00,16) Gold Key
+L02 (03,19) Topaz Key
+L03 (05,19) Gold Key
+L04 (11,27) Emerald Key
+L05 (02,27) Iron Key
+L06 (05,27) Solid Key
+L07 (10,14) Gold Key
+L08 (22,19) Gold Key
+L09 (28,18) Gold Key
+L10 (30,21) Iron Key
+L11 (24,24) Key of B
+L12 (21,35) Gold Key
+L13 (18,40) Copper Coin
+
+
+## Creatures
+
+01 (06,16) Mummy
+02 (04,27) Screamer
+03 (11,19) Screamer
+04 (13,18) Screamer (4)
+05 (22,19) Screamer (2)
+06 (27,16) Mummy
+07 (31,23) Screamer
+08 (24,27) Mummy
+09 (16,30) Screamer (2)
+10 (27,34) Mummy (3)
+11 (20,43) Screamer (4)
+12 (08,38) Screamer (4) [Torch (Charges=15), Empty Flask]
+13 (05,38) Screamer [Throwing Star]
+14 (03,32) Mummy (4)
+15 (01,33) Mummy (2)
