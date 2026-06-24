@@ -81,41 +81,42 @@ W : 点滅テレポーター（Blinking teleporter - 出現、消滅を交互に
   012345678901234567890123456789012
 ```
 
-## Items
 
-01 (06,14) Club
-02 (06,17) Corn, Apple, Scroll (“Small details can hide great rewards”), Dagger, Falchion
-03 (00,16) Gold Key
-04 (01,23) Topaz Key
-05 (07,23) Leather Boots, Gold Key
-06 (08,19) Elven Doublet, Dagger, Arrow, Torch (Charges=15), Emerald Key
-07 (04,30) Rock
-08 (15,24) Iron Key, Ghi Trousers
-09 (14,21) Solid Key
-10 (13,22) Falchion
-11 (14,22) Torch (Charges=15), Leather Boots
-12 (08,17) Gold Key
-13 (13,19) Gold Key
-14 (25,14) Boulder
-15 (30,15) Gold Key, Apple
-16 (17,25) Apple
-17 (29,25) Rock
-18 (31,20) Iron Key
-19 (31,24) Key of B
-20 (19,25) Scroll (“Casting Vi into a flask creates a serum that heals wounds”), Empty flask (3), Leather pants, Scroll (“Casting Vi Bro into a flask creates a serum for curing poison”), Drumstick
-21 (16,27) Apple, Cheese (2), Torch (Charges=15)
-22 (13,28) Gold Key, Throwing Star
-23 (30,33) Copper Coin
-24 (30,39) Torch (Charges=15)
-25 (27,43) Chest [Scroll (“Drink these to gain magical defense”), Ya potion (2)]
-26 (12,44) Throwing Star
-27 (13,43) Water (Charges=3)
-28 (14,42) Apple
-29 (16,42) Falchion
-30 (15,45) Magical Box (Blue)
-31 (05,32) Buckler
-32 (02,45) Chest [Drumstick, Corn, Cheese, Bread (2), Magical Box (Blue), Scroll (“Des Ven will conjure a poison spell”), Empty Flask]
-33 (06,43) Torch (Charges=15)
+## アイテム（Items）
+
+* **T01 (L01, 06, 14)** Club
+* **T02 (L01, 06, 17)** Corn, Apple, Scroll (“Small details can hide great rewards”), Dagger, Falchion
+* **T03 (L01, 00, 16)** Gold Key
+* **T04 (L01, 01, 23)** Topaz Key
+* **T05 (L01, 07, 23)** Leather Boots, Gold Key
+* **T06 (L01, 08, 19)** Elven Doublet, Dagger, Arrow, Torch (Charges=15), Emerald Key
+* **T07 (L01, 04, 30)** Rock
+* **T08 (L01, 15, 24)** Iron Key, Ghi Trousers
+* **T09 (L01, 14, 21)** Solid Key
+* **T10 (L01, 13, 22)** Falchion
+* **T11 (L01, 14, 22)** Torch (Charges=15), Leather Boots
+* **T12 (L01, 08, 17)** Gold Key
+* **T13 (L01, 13, 19)** Gold Key
+* **T14 (L01, 25, 14)** Boulder
+* **T15 (L01, 30, 15)** Gold Key, Apple
+* **T16 (L01, 17, 25)** Apple
+* **T17 (L01, 29, 25)** Rock
+* **T18 (L01, 31, 20)** Iron Key
+* **T19 (L01, 31, 24)** Key of B
+* **T20 (L01, 19, 25)** Scroll (“Casting Vi into a flask creates a serum that heals wounds”), Empty flask (3), Leather pants, Scroll (“Casting Vi Bro into a flask creates a serum for curing poison”), Drumstick
+* **T21 (L01, 16, 27)** Apple, Cheese (2), Torch (Charges=15)
+* **T22 (L01, 13, 28)** Gold Key, Throwing Star
+* **T23 (L01, 30, 33)** Copper Coin
+* **T24 (L01, 30, 39)** Torch (Charges=15)
+* **T25 (L01, 27, 43)** Chest [Scroll (“Drink these to gain magical defense”), Ya potion (2)]
+* **T26 (L01, 12, 44)** Throwing Star
+* **T27 (L01, 13, 43)** Water (Charges=3)
+* **T28 (L01, 14, 42)** Apple
+* **T29 (L01, 16, 42)** Falchion
+* **T30 (L01, 15, 45)** Magical Box (Blue)
+* **T31 (L01, 05, 32)** Buckler
+* **T32 (L01, 02, 45)** Chest [Drumstick, Corn, Cheese, Bread (2), Magical Box (Blue), Scroll (“Des Ven will conjure a poison spell”), Empty Flask]
+* **T33 (L01, 06, 43)** Torch (Charges=15)
 
 
 ## 壁の文字（Inscriptions）
