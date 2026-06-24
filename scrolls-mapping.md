@@ -64,8 +64,8 @@ The spell Oh Ew Ra bestows magic vision. = 呪文オーユーラーは 透視の
 
 ## LEVEL 09 [地下9階]
 
-Shield potion Ya Bro. Magic shield Ya Ir. = 
-Mana potion Zo Bro Ra creates a pure mana potion. = 
+Shield potion Ya Bro. Magic shield Ya Ir. = 呪文ヤーブローは攻撃 呪文ヤーイルは魔法 から身を守る
+Mana potion Zo Bro Ra creates a pure mana potion. = 呪文ゾーブローラーは マナを造り出す
 
 
 ## LEVEL 10 [地下10階]
