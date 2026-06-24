@@ -51,8 +51,8 @@ Zokathra might create a plasma that could burn through the amalgam encasing the 
 
 ## LEVEL 07 [地下7階]
 
-Four potions for boosting skills Ful Bro Ku Oh Bro Ros Ya Bro Dain Ya Bro Neta = 
-The spell Ya Bro Ros leaves a trail of magic footprints. = 
+Four potions for boosting skills Ful Bro Ku Oh Bro Ros Ya Bro Dain Ya Bro Neta = 呪文フルブロークー 呪文オーブローロス
+The spell Ya Bro Ros leaves a trail of magic footprints. = 呪文ヤーブローロスは 魔法の足あとをのこす
 
 
 ## LEVEL 08 [地下8階]
