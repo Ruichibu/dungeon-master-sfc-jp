@@ -80,15 +80,15 @@ W : 点滅テレポーター（Blinking teleporter - 出現、消滅を交互に
 
 ## Items
 
-* **I01** (L00, 04, 09) Apple
-* **I02** (L00, 05, 11) Bread
-* **I03** (L00, 04, 14) Torch (Charges=15)
-* **I04** (L00, 04, 15) Water (Charges=3), Scroll ("Invoke Ful for a magic torch")
-* **I05** (L00, 04, 17) Scroll ("New lives for old bones")
-* **I06** (L00, 00, 16) Corn
-* **I07** (L00, 02, 13) Bread
-* **I08** (L00, 02, 12) Cheese
-* **I09** (L00, 02, 11) Apple
+* **T01** (L00, 04, 09) Apple
+* **T02** (L00, 05, 11) Bread
+* **T03** (L00, 04, 14) Torch (Charges=15)
+* **T04** (L00, 04, 15) Water (Charges=3), Scroll ("Invoke Ful for a magic torch")
+* **T05** (L00, 04, 17) Scroll ("New lives for old bones")
+* **T06** (L00, 00, 16) Corn
+* **T07** (L00, 02, 13) Bread
+* **T08** (L00, 02, 12) Cheese
+* **T09** (L00, 02, 11) Apple
 
 ## 壁の文字（Inscriptions）
 
