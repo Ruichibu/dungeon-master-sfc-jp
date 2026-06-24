@@ -131,21 +131,21 @@ W : 点滅テレポーター（Blinking teleporter - 出現、消滅を交互に
 * ※現在10個前後の配置特定が必要なため、データ定義は一時保留。
 
 
-##Locks
+## 鍵穴（Locks）
 
-L01 (00,17,N) Gold Key
-L02 (03,18,S) Topaz Key
-L03 (05,18,S) Gold Key
-L04 (12,27,W) Emerald Key
-L05 (02,26,S) Iron Key
-L06 (05,26,S) Solid Key
-L07 (10,15,N) Gold Key
-L08 (23,19,W) Gold Key
-L09 (28,19,N) Gold Key
-L10 (30,22,N) Iron Key
-L11 (24,25,N) Key of B
-L12 (21,36,N) Gold Key
-L13 (18,39,S) Copper Coin
+* **L01 (L01, 00, 17, N) Gold Key**
+* **L02 (L01, 03, 18, S) Topaz Key**
+* **L03 (L01, 05, 18, S) Gold Key**
+* **L04 (L01, 12, 27, W) Emerald Key**
+* **L05 (L01, 02, 26, S) Iron Key**
+* **L06 (L01, 05, 26, S) Solid Key**
+* **L07 (L01, 10, 15, N) Gold Key**
+* **L08 (L01, 23, 19, W) Gold Key**
+* **L09 (L01, 28, 19, N) Gold Key**
+* **L10 (L01, 30, 22, N) Iron Key**
+* **L11 (L01, 24, 25, N) Key of B**
+* **L12 (L01, 21, 36, N) Gold Key**
+* **L13 (L01, 18, 39, S) Copper Coin**
 
 
 ## Creatures
