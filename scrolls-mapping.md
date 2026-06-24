@@ -70,7 +70,7 @@ Mana potion Zo Bro Ra creates a pure mana potion. =
 
 ## LEVEL 10 [地下10階]
 
-The only way out is another way in. = 
+The only way out is another way in. = 出たければ 入りなおせ
 
 
 ## LEVEL 11 [地下11階]
