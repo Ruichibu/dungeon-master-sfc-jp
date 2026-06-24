@@ -109,13 +109,18 @@ W : 点滅テレポーター（Blinking teleporter - 出現、消滅を交互に
 33 (06,43) Torch (Charges=15)
 
 
-##Inscriptions
+## 壁の文字（Inscriptions）
 
-I01 (29,16) “Step inside take a ride”
-I02 (22,22) “This wall says nothing”
-I03 (13,30) “To close pit leave a valuable on floor”
-I04 (28,41) “None shall pass”
-I05 (18,40) “This fountain accepts one wish.”
+* **I01 (L01, X30, X16, W) “Step inside take a ride**
+  * ※通路 (L01, X29, Y16) から東 (E) の壁を向くと読める。
+* **I02 (L01, X21, Y22, E) “This wall says nothing”**
+  * ※通路 (L01, X22, Y22)` から西 (W) の壁を向くと読める。
+* **I03 (L01, X14, Y30, W) “To close pit leave a valuable on floor”**
+  * ※通路 (L01, X13, Y30)` から東 (E)の壁を向くと読める。落とし穴を閉じるヒントの文字。
+* **I04 (L01, X28, Y42, N) “None shall pass”**
+  * ※通路 (L01, X28, Y41)` から南 (S)の壁を向くと読める。破壊可能なドア (K) の手前。
+* **I05 (L01, X18, Y41, N) “This fountain accepts one wish.”**
+  * ※通路 (L01, X18, Y40)` から南 (S)の壁を向くと読める。水飲み場 (兼銅貨投入口) と向い合せの壁の文字。
 
 
 ##Locks
