@@ -68,7 +68,7 @@ B OF KEY が違う鍵
 力のグリーブが手に入る
 
 ### ENGLISH VER LEVEL 07 = JAPANESE VER LEVEL 03
-北西エリアにギグラーの巣がある
+北西エリアにギグラーの巣があり、そこでデックス兜が手に入る
 
 ### ENGLISH VER LEVEL 11 = JAPANESE VER LEVEL 12
 北西の黒がね兜がある部屋の入口を開くスイッチが近くの３回見えない床スイッチを踏むと近くの壁が消えるところにある
