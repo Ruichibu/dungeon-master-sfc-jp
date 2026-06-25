@@ -81,3 +81,49 @@
   122222222223333333333444444444455
   901234567890123456789012345678901
 ```
+
+Items
+01 (34,38) Torch (Charges=15)
+02 (35,39) Scroll “Four potions for boosting skills Ful Bro Ku Oh Bro Ros Ya Bro Dain Ya Bro Neta”
+03 (36,39) Copper Coin
+04 (29,38) Delta
+05 (32,37) Jewel Symal
+06 (31,34) Ful Bomb, Magical Box (Green)
+07 (50,31) Mace Of Order
+08 (50,32) Ful Bomb (2)
+09 (50,17) Staff Of Manar (Charges=15)
+10 (40,13) Solid Key
+11 (23,13) Chest [Skeleton Key]
+12 (26,28) Ful Bomb, Rabbit’s Foot
+13 (22,22) Cheese
+14 (25,32) Chest [Ya Potion, Scroll (“The spell Ya Bro Ros leaves a trail of magic footprints.”)]
+15 (21,19) Apple (2)
+
+Locks
+L01 (22,22) Solid Key
+L02 (25,32) Skeleton Key
+
+Creatures
+01 (35,33) Ghost
+02 (37,30) Ghost
+03 (32,29) Ghost
+04 (34,28) Ghost
+05 (37,27) Ghost
+06 (33,26) Skeleton Generator (1)
+07 (39,36) Ghost
+08 (35,37) Mummy (3)
+09 (23,38) Skeleton
+10 (21,38) Skeleton
+11 (21,36) Mummy (4)
+12 (44,31) Ghost Generator (1)
+13 (50,30) Mummy (4)
+14 (42,25) Ghost
+15 (44,20) Giggler [Throwing Star]
+16 (50,18) Mummy
+17 (37,19) Ghost Generator (1)
+18 (34,23) Ghost
+19 (29,21) Ghost
+20 (32,17) Giggler Generator (1)
+21 (22,30) Skeleton Generator (1-4)
+22 (21,18) Skeleton (4) [Magical Box (Green)]
+23 (23,20) Mummy Generator (1-4)
