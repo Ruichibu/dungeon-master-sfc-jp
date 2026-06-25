@@ -92,47 +92,52 @@
 * **T08** (L00, 02, 12) Cheese
 * **T09** (L00, 02, 11) Apple
 
+## LEVEL 00 データ集
+
+## Items
+* **T01** (L00, 04, 09) Apple
+* **T02** (L00, 05, 11) Bread
+* **T03** (L00, 04, 14) Torch (Charges=15)
+* **T04** (L00, 04, 15) Water (Charges=3), Scroll ("Invoke Ful for a magic torch")
+* **T05** (L00, 04, 17) Scroll ("New lives for old bones")
+* **T06** (L00, 00, 16) Corn
+* **T07** (L00, 02, 13) Bread
+* **T08** (L00, 02, 12) Cheese
+* **T09** (L00, 02, 11) Apple
+
 ## 壁の文字（Inscriptions）
-
-Inscriptions
-I01 (08,04,S) “Hall Of Champions”
-I02 (04,17,E) “Vi Altar Of Rebirth”
-
+* **I01** (L00, 08, 04, S) “Hall Of Champions”
+* **I02** (L00, 04, 17, E) “Vi Altar Of Rebirth”
 
 ## 特殊ギミック注記（Notes）
-
-Notes
-A. (01,04) You can use the spell “See Through Walls” in front of the door to see Lord Order. If you come back here with the Firestaff (not completed with the power gem), the door opens, then you are teleported in front of Lord Order where you can see an alternate game end:
-B. (09,04) Choose four Dungeon Master Champions.
-
+* **A** (L00, 01, 04) You can use the spell “See Through Walls” in front of the door to see Lord Order. If you come back here with the Firestaff (not completed with the power gem), the door opens, then you are teleported in front of Lord Order where you can see an alternate game end.
+* **B** (L00, 09, 04) Choose four Dungeon Master Champions.
 
 ## ヴィーの祭壇 (Altar of VI)
-
 * **A01** (L00, 04, 17, S) 
 
-
-Champions
-C01 (10,04,N) Iaido Ruyito Chiburi
-C02 (10,05,S) Zed Duke Of Banville
-C03 (14,03,N) Chani Sayyadina Sihaya
-C04 (15,04,E) Hawk The Fearless
-C05 (14,06,S) Boris Wizard Of Baldor
-C06 (16,08,N) Alex Ander
-C07 (17,09,S) Nabi The Prophet
-C08 (16,14,S) Hissssa Lizar Of Makan
-C09 (16,17,N) Gothmog
-C10 (14,12,E) Sonja She Devil
-C11 (13,12,N) Leyla Shadowseek
-C12 (13,14,E) Mophus The Healer
-C13 (12,13,W) Wuuf The Bika
-C14 (11,15,S) Stamm Bladecaster
-C15 (07,16,S) Azizi Johari
-C16 (08,15,N) Leif The Valiant
-C17 (09,13,E) Tiggy Tamal
-C18 (07,13,S) Wu Tse Son Of Heaven
-C19 (06,13,W) Daroou
-C20 (07,09,N) Halk The Barbarian
-C21 (09,09,S) Syra Child Of Nature
-C22 (11,10,S) Gando Thurfoot
-C23 (12,09,N) Linflas
-C24 (09,07,W) Elija Lion Of Yaitopya
+## チャンピオン (Champions)
+* **C01** (L00, 10, 04, N) Iaido Ruyito Chiburi
+* **C02** (L00, 10, 05, S) Zed Duke Of Banville
+* **C03** (L00, 14, 03, N) Chani Sayyadina Sihaya
+* **C04** (L00, 15, 04, E) Hawk The Fearless
+* **C05** (L00, 14, 06, S) Boris Wizard Of Baldor
+* **C06** (L00, 16, 08, N) Alex Ander
+* **C07** (L00, 17, 09, S) Nabi The Prophet
+* **C08** (L00, 16, 14, S) Hissssa Lizar Of Makan
+* **C09** (L00, 16, 17, N) Gothmog
+* **C10** (L00, 14, 12, E) Sonja She Devil
+* **C11** (L00, 13, 12, N) Leyla Shadowseek
+* **C12** (L00, 13, 14, E) Mophus The Healer
+* **C13** (L00, 12, 13, W) Wuuf The Bika
+* **C14** (L00, 11, 15, S) Stamm Bladecaster
+* **C15** (L00, 07, 16, S) Azizi Johari
+* **C16** (L00, 08, 15, N) Leif The Valiant
+* **C17** (L00, 09, 13, E) Tiggy Tamal
+* **C18** (L00, 07, 13, S) Wu Tse Son Of Heaven
+* **C19** (L00, 06, 13, W) Daroou
+* **C20** (L00, 07, 09, N) Halk The Barbarian
+* **C21** (L00, 09, 09, S) Syra Child Of Nature
+* **C22** (L00, 11, 10, S) Gando Thurfoot
+* **C23** (L00, 12, 09, N) Linflas
+* **C24** (L00, 09, 07, W) Elija Lion Of Yaitopya
