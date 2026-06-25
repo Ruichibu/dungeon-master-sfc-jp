@@ -94,6 +94,7 @@
 
 ## 特殊ギミック注記（Notes）
 * **N01** (L13, 49, 36) Cast the spell Zo Kath Ra. Use the spell to free the power gem, then use the Firestaff on it to combine them. Getting out of this room with the complete Firestaff will activate the pressure pad at `(L13, 49, 39)`, which toggles two walls on L12 preventing you from going to the upper levels. You can avoid that by throwing the complete Firestaff through the door to the south before stepping on the pressure plate.
+* **N02 (SFC版固有の仕様)** LEVEL 13の上り階段を西向きに上がった場合、SFC版ではLEVEL 12の下り階段の1マス南側に「南向き」で出現します。下り時（東向きに1マスズレ）とは戻り先の方角・相対位置が異なる非対称な挙動になるため注意してください。
 
 ## モンスター（Monsters）
 * **M01** (L13, 49, 41) Red Dragon
