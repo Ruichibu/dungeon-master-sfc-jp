@@ -41,3 +41,108 @@
 * `>` : 右回転スピナー (Spinner - 進入した向きから90度時計回りに回転する)
 * `<` : 左回転スピナー (Spinner - 進入した向きから90度反時計回りに回転する)
 * `^` : 180度回転スピナー (Spinner - 進入した向きから180度反転する)
+
+```
+  01111111111222222222233333333334
+  90123456789012345678901234567890
+09@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+10@@@@@S....@@@U@..........@@.@@@@
+11@@@@@@@@...@..@.@@.@@.@@..@M@@@@
+12@...@@@@@@.@..@.@...@.@@@....@@@
+13@@@.@@@..@.@..@.@T..@.@...@@.@@@
+14@@.....@.@..@@@.@@@@@...@.@@.@@@
+15@@@@.@.@.@@............@@....@@@
+16@..@.@...@@@@@@@@.@@.@.@.@@B@@@@
+17@....@.@........@.......M@@.@@@@
+18@.@@@@@@@@@@@@@..@@@@@B@@@....@@
+19@.@@...@.T.@.T.@....@@......@.@@
+20@..L.@.@.@...@.@@@.X@@@@.@@.@.@@
+21@@@@...@.T.@.T.@@@@D@@@@.......@
+22@@@@.@...@.T.@...U@..L..@@.@@@.@
+23@@@@...@.T.@.T.@@@@D@@@.@@.....@
+24@..L.@.@.@.T.@.@...X@T@XXX@...@@
+25@.@@...@...@...@.@@@@.@X@X@....@
+26@.@@@@@@@@@@@@@@.@...@@X@XT@..@@
+27@.....@@.......@.@.@..@X@X.@...@
+28@..@.....@..@....@@...@XXX@..@.@
+29@@@..@...@.@.@.@@.......@@...@.@
+30@@@.@@@@@@.@.@@@..@@@@@@@@.@.@.@
+31@.@..@.....@.....@@@@..........@
+32@M@@@@@@@@@..@@..@@U@.@@@B@@B@@@
+33@......IB...@@@@@@@.M.@@@....@@@
+34@...@..@@@@@...T@@@S@@U.S@.....@
+35@@......@@......@@@@@.@@@....@.@
+36@@@@....@@..@M@@.F.M....@.@.@@.@
+37@......@@@B@@.@.@@@@@..........@
+38@.....@@@@.@@@@.@......@.@.@@.@@
+39@.....@...I.......@.@@@@M@..@.@@
+40@.@@@@@.@@@.@@@.@@@.@@@..@@...@@
+41@.I.....@@@.@@@.....@@..@@@@@@@@
+42@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+```
+
+Items
+01 (30,25) Yew Staff (Charges=12)
+02 (13,22) Key Of B
+03 (10,12) Apple, Bread
+04 (15,31) Corn, Cheese
+05 (35,27) Cheese, Water Flask, Ful Bomb
+06 (27,26) Corn
+07 (27,27) Torch (Charges=15)
+08 (16,36) Armet
+09 (10,31) Speedbow
+10 (24,35) Foot Plate, Leg Plate
+11 (22,37) Drumstick, Moonstone
+12 (24,37) Corn
+13 (32,40) Scroll “Shield potion Ya Bro. Magic shield Ya Ir.”
+14 (27,36) Torso Plate, Ful Bomb
+15 (25,36) Boots Of Speed
+16 (38,40) Bread
+17 (38,21) Bread
+18 (33,16) Shield Of Lyte, Scroll “Mana potion Zo Bro Ra creates a pure mana potion.”
+19 (36,10) Hardcleave
+20 (28,13) Magnifier
+
+Inscriptions
+I01 (24,22) “Beware my twisted humor the deceiver the snake”
+I02 (13,22) “Choose a door”
+I03 (32,23) “Zooooom”
+
+Locks
+L01 (13,21) Key Of B
+L02 (13,23) Key Of B
+L03 (29,22) Key Of B
+L04 (30,32) Skeleton Key
+
+Notes
+A. (15,33) Creatures in this room are kept in place by invisible teleporters. Some of them are disabled by pressing the button at (16,33) or by walking at (11,41).
+B. When you reach a corner of the Zooooom, you are teleported one step forward and turned 90 degrees. So if you enter the Zooooom forward, you have to step out of it with a step to the right.
+
+Creatures
+01 (15,22) Wizard Eye Generator (1-4)
+02 (13,21) Skeleton
+03 (17,16) Giggler
+04 (20,17) Wizard Eye (3) [Key Of B]
+05 (13,27) Skeleton (4) [Key Of B]
+06 (18,27) Giant Scorpion
+07 (25,31) Wizard Eye (2)
+08 (10,33) Skeleton (4)
+09 (10,34) Giggler (2)
+10 (15,35) Wizard Eye
+11 (15,36) Skeleton
+12 (15,37) Wizard Eye
+13 (14,38) Wizard Eye
+14 (13,39) Skeleton
+15 (14,39) Wizard Eye
+16 (12,41) Giggler Generator (1)
+17 (23,34) Giggler
+18 (26,39) Giggler Generator (1)
+19 (28,41) Giant Scorpion
+20 (33,40) Skeleton
+21 (39,28) Giant Scorpion
+22 (37,25) Wizard Eye Generator (1-4)
+23 (35,19) Giggler
+24 (31,17) Giant Scorpion Generator (1)
+25 (33,16) Wizard Eye [Skeleton Key]
+26 (27,13) Giant Scorpion
+27 (21,15) Giggler
