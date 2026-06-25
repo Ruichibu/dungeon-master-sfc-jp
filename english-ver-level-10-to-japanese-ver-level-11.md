@@ -83,77 +83,77 @@
   90123456789012345678901234567890
 ```
 
-Items
-01 (13,13) Staff
-02 (16,10) Iron Key
-03 (16,13) Foot Plate
-04 (16,16) Morningstar
-05 (13,16) Sabre
-06 (21,16) Chest [Solid Key]
-07 (11,24) Diamond Edge
-08 (22,13) Fury (Charges=8)
-09 (35,14) Skeleton Key
-10 (29,21) Cross Key
-11 (17,25) Copper Coin
-12 (12,28) Copper Coin
-13 (28,26) Cheese
-14 (21,29) Copper Coin
-15 (16,32) Copper Coin
-16 (38,14) Copper Coin
-17 (32,24) Drumstick
-18 (36,30) Copper Coin
-19 (10,41) Plate Of Lyte, Poleyn Of Lyte, Greave Of Lyte
-20 (36,38) Ven Potion
-21 (36,38) Ful Bomb
-22 (36,37) Ful Bomb, Magical Box (Green)
-23 (36,37) Copper Coin (2)
-24 (37,37) Cross Key
-25 (37,37) Chest [Drumstick (4), Cheese (2), Bread (2)]
-26 (37,38) Magical Box (Green)
-27 (34,36) Boots Of Speed
-28 (26,35) Scroll “The only way out is another way in.”
-29 (32,30) Ruby Key
+## Items
+* **T01** (L10, 13, 13) Staff
+* **T02** (L10, 16, 10) Iron Key
+* **T03** (L10, 16, 13) Foot Plate
+* **T04** (L10, 16, 16) Morningstar
+* **T05** (L10, 13, 16) Sabre
+* **T06** (L10, 21, 16) Chest [Solid Key]
+* **T07** (L10, 11, 24) Diamond Edge
+* **T08** (L10, 22, 13) Fury (Charges=8)
+* **T09** (L10, 35, 14) Skeleton Key
+* **T10** (L10, 29, 21) Cross Key
+* **T11** (L10, 17, 25) Copper Coin
+* **T12** (L10, 12, 28) Copper Coin
+* **T13** (L10, 28, 26) Cheese
+* **T14** (L10, 21, 29) Copper Coin
+* **T15** (L10, 16, 32) Copper Coin
+* **T16** (L10, 38, 14) Copper Coin
+* **T17** (L10, 32, 24) Drumstick
+* **T18** (L10, 36, 30) Copper Coin
+* **T19** (L10, 10, 41) Plate Of Lyte, Poleyn Of Lyte, Greave Of Lyte
+* **T20** (L10, 36, 38) Ven Potion
+* **T21** (L10, 36, 38) Ful Bomb
+* **T22** (L10, 36, 37) Ful Bomb, Magical Box (Green)
+* **T23** (L10, 36, 37) Copper Coin (2)
+* **T24** (L10, 37, 37) Cross Key
+* **T25** (L10, 37, 37) Chest [Drumstick (4), Cheese (2), Bread (2)]
+* **T26** (L10, 37, 38) Magical Box (Green)
+* **T27** (L10, 34, 36) Boots Of Speed
+* **T28** (L10, 26, 35) Scroll “The only way out is another way in.”
+* **T29** (L10, 32, 30) Ruby Key
 
-Inscriptions
-I01 (10,13) “Turn back”
-I02 (19,10) “Clockwise”
-I03 (30,35) “Enlarge my view”
+## 壁の文字（Inscriptions）
+* **I01** (L10, 10, 13) “Turn back”
+* **I02** (L10, 19, 10) “Clockwise”
+* **I03** (L10, 30, 35) “Enlarge my view”
 
-Locks
-L01 (19,16) Iron Key
-L02 (27,22) Cross Key
-L03 (28,22) Cross Key
-L04 (31,22) Cross Key
-L05 (30,34) Skeleton Key
-L06 (30,34) Magnifier (In fact, any item will open this lock. Even though the lock does specify a Magnifier item, it is configured to accept any item instead of only the specified one. The dungeon designer either made a mistake or thought it was too hard to find the Magnifier)
-L07-13 (36,37)-(37,38) Copper Coin (7)
+## 鍵穴（Locks）
+* **L01** (L10, 19, 16) Iron Key
+* **L02** (L10, 27, 22) Cross Key
+* **L03** (L10, 28, 22) Cross Key
+* **L04** (L10, 31, 22) Cross Key
+* **L05** (L10, 30, 34) Skeleton Key
+* **L06** (L10, 30, 34) Magnifier (In fact, any item will open this lock. Even though the lock does specify a Magnifier item, it is configured to accept any item instead of only the specified one. The dungeon designer either made a mistake or thought it was too hard to find the Magnifier)
+* **L07-13** (L10, 36, 37)-(L10, 37, 38) Copper Coin (7)
 
-Creatures
-01 (10,21) Giant Wasp
-02 (11,22) Giant Wasp
-03 (12,21) Giant Wasp
-04 (13,22) Giant Wasp
-05 (20,22) Giggler
-06 (29,20) Giant Wasp (2)
-07 (24,23) Trolin (2)
-08 (19,25) Trolin (4)
-09 (16,26) Trolin
-10 (17,29) Trolin (4)
-11 (13,26) Trolin Generator (1-4)
-12 (14,28) Giggler
-13 (13,30) Trolin (4)
-14 (10,30) Trolin (3)
-15 (14,35) Trolin (4)
-16 (26,25) Water Elemental
-17 (20,29) Giggler
-18 (16,32) Water Elemental Generator (1)
-19 (33,22) Giggler
-20 (37,19) Giant Wasp (2)
-21 (39,13) Giant Wasp Generator (2)
-22 (37,22) Giggler
-23 (35,24) Giant Wasp
-24 (38,29) Giggler
-25 (35,30) Giant Wasp Generator (2)
-26 (32,28) Giant Wasp
-27 (17,38) Water Elemental
-28 (27,39) Giant Wasp Generator (2)
+## モンスター（Monsters）
+* **M01** (L10, 10, 21) Giant Wasp
+* **M02** (L10, 11, 22) Giant Wasp
+* **M03** (L10, 12, 21) Giant Wasp
+* **M04** (L10, 13, 22) Giant Wasp
+* **M05** (L10, 20, 22) Giggler
+* **M06** (L10, 29, 20) Giant Wasp (2)
+* **M07** (L10, 24, 23) Trolin (2)
+* **M08** (L10, 19, 25) Trolin (4)
+* **M09** (L10, 16, 26) Trolin
+* **M10** (L10, 17, 29) Trolin (4)
+* **M11** (L10, 13, 26) Trolin Generator (1-4)
+* **M12** (L10, 14, 28) Giggler
+* **M13** (L10, 13, 30) Trolin (4)
+* **M14** (L10, 10, 30) Trolin (3)
+* **M15** (L10, 14, 35) Trolin (4)
+* **M16** (L10, 26, 25) Water Elemental
+* **M17** (L10, 20, 29) Giggler
+* **M18** (L10, 16, 32) Water Elemental Generator (1)
+* **M19** (L10, 33, 22) Giggler
+* **M20** (L10, 37, 19) Giant Wasp (2)
+* **M21** (L10, 39, 13) Giant Wasp Generator (2)
+* **M22** (L10, 37, 22) Giggler
+* **M23** (L10, 35, 24) Giant Wasp
+* **M24** (L10, 38, 29) Giggler
+* **M25** (L10, 35, 30) Giant Wasp Generator (2)
+* **M26** (L10, 32, 28) Giant Wasp
+* **M27** (L10, 17, 38) Water Elemental
+* **M28** (L10, 27, 39) Giant Wasp Generator (2)
