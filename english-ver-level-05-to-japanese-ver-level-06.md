@@ -83,86 +83,86 @@
   456789012345678901234567890123456
 ```
 
-Items
-01 (22,05) Drumstick
-02 (16,06) Cheese, Bro Potion
-03 (12,07) Ven Potion
-04 (14,07) Torch (Charges=13)
-05 (17,24) Iron Key
-06 (18,34) Iron Key
-07 (26,26) Iron Key, Mail Aketon
-08 (26,21) Iron Key
-09 (15,21) Large Shield
-10 (27,28) Ros Potion, Vi Potion, Drumstick, Torch (Charges=15)
-11 (34,33) Magical Box (Blue)
-12 (34,19) Iron Key, Torso Plate
-13 (28,15) Magical Box (Green)
-14 (29,11) Drumstick (2)
-15 (28,10) Yew Staff (Charges=10)
-16 (32,09) Casque’n Coif
-17 (29,05) Vorpal Blade (Charges=14)
-18 (25,08) Solid Key
-19 (22,11) Corn, Throwing Star (2)
-20 (18,17) Drumstick
-21 (18,18) Mithral Aketon, Slayer (2)
-22 (11,15) Magical Box (Green) (2)
-23 (09,17) Torch (Charges=15)
-24 (06,11) Magical Box (Blue)
-25 (12,21) Vorpal Blade (Charges=0)
-26 (16,30) Crossbow
-27 (14,33) Chest [Slayer, Water Flask, Drumstick]
-28 (24,32) Mithral Mail
+## アイテム (Items)
+* **T01** (L05, 22, 05) Drumstick
+* **T02** (L05, 16, 06) Cheese, Bro Potion
+* **T03** (L05, 12, 07) Ven Potion
+* **T04** (L05, 14, 07) Torch (Charges=13)
+* **T05** (L05, 17, 24) Iron Key
+* **T06** (L05, 18, 34) Iron Key
+* **T07** (L05, 26, 26) Iron Key, Mail Aketon
+* **T08** (L05, 26, 21) Iron Key
+* **T09** (L05, 15, 21) Large Shield
+* **T10** (L05, 27, 28) Ros Potion, Vi Potion, Drumstick, Torch (Charges=15)
+* **T11** (L05, 34, 33) Magical Box (Blue)
+* **T12** (L05, 34, 19) Iron Key, Torso Plate
+* **T13** (L05, 28, 15) Magical Box (Green)
+* **T14** (L05, 29, 11) Drumstick (2)
+* **T15** (L05, 28, 10) Yew Staff (Charges=10)
+* **T16** (L05, 32, 09) Casque’n Coif
+* **T17** (L05, 29, 05) Vorpal Blade (Charges=14)
+* **T18** (L05, 25, 08) Solid Key
+* **T19** (L05, 22, 11) Corn, Throwing Star (2)
+* **T20** (L05, 18, 17) Drumstick
+* **T21** (L05, 18, 18) Mithral Aketon, Slayer (2)
+* **T22** (L05, 11, 15) Magical Box (Green) (2)
+* **T23** (L05, 09, 17) Torch (Charges=15)
+* **T24** (L05, 06, 11) Magical Box (Blue)
+* **T25** (L05, 12, 21) Vorpal Blade (Charges=0)
+* **T26** (L05, 16, 30) Crossbow
+* **T27** (L05, 14, 33) Chest [Slayer, Water Flask, Drumstick]
+* **T28** (L05, 24, 32) Mithral Mail
 
-Inscriptions
-I01 (12,25) “The riddle room”
-I02 (13,23) “I am all I am none”
-I03 (16,23) “A golden head and tail but no body”
-I04 (13,27) “Hard as rocks blue as sky twinkle in womans eye”
-I05 (16,27) “I arch yet have no back”
-I06 (22,26) “The grave of king Filius explorer of combinations”
-I07 (24,22) “The grave of king Milias the golden who even”
-I08 (24,23) “In death thirsts for bullion.”
-I09 (25,18) “If you want to stay alive you better turn and run”
-I10 (25,17) “I hate cowards”
-I11 (25,19) “I don’t like to be ignored”
-I12 (23,14) “Test your strength”
-I13 (19,09) “Ha ha ha”
-I14 (30,33) “Altar of Vi”
+## 壁の文字（Inscriptions）
+* **I01** (L05, 12, 25) “The riddle room”
+* **I02** (L05, 13, 23) “I am all I am none”
+* **I03** (L05, 16, 23) “A golden head and tail but no body”
+* **I04** (L05, 13, 27) “Hard as rocks blue as sky twinkle in womans eye”
+* **I05** (L05, 16, 27) “I arch yet have no back”
+* **I06** (L05, 22, 26) “The grave of king Filius explorer of combinations”
+* **I07** (L05, 24, 22) “The grave of king Milias the golden who even”
+* **I08** (L05, 24, 23) “In death thirsts for bullion.”
+* **I09** (L05, 25, 18) “If you want to stay alive you better turn and run”
+* **I10** (L05, 25, 17) “I hate cowards”
+* **I11** (L05, 25, 19) “I don’t like to be ignored”
+* **I12** (L05, 23, 14) “Test your strength”
+* **I13** (L05, 19, 09) “Ha ha ha”
+* **I14** (L05, 30, 33) “Altar of Vi”
 
-Locks
-L01 (22,23) Gold Coin
-L02 (21,18) Iron Key
-L03 (23,18) Iron Key
-L04 (27,17) Iron Key
-L05 (30,16) Iron Key
-L06 (25,13) Stone Key
-L07 (13,16) Iron Key
+## 鍵穴（Locks）
+* **L01** (L05, 22, 23) Gold Coin
+* **L02** (L05, 21, 18) Iron Key
+* **L03** (L05, 23, 18) Iron Key
+* **L04** (L05, 27, 17) Iron Key
+* **L05** (L05, 30, 16) Iron Key
+* **L06** (L05, 25, 13) Stone Key
+* **L07** (L05, 13, 16) Iron Key
 
-Notes
-A. (13,25) Each of the four alcoves requires one of these four items: a Mirror Of Dawn, a Gold Coin, a Blue Gem and a Bow. Once three items are in place, the door will open. The fourth item will reveal the hidden alcove.
-B. (18,31) Pull the lever, then put any item on ground in the teleporter (do not throw it) so that it gets at (20,33). The door will then open.
-C. You need to press the two buttons at (24,25) and (25,28) to open the wall. The two other buttons are already in the correct state.
-D. A skeleton must walk on the pressure pad to open the wall. Leaving an item on floor will not work.
+## 特殊ギミック注記（Notes）
+* **N01** (L05, 15, 17) Each of the four alcoves requires one of these four items: a Mirror Of Dawn, a Gold Coin, a Blue Gem and a Bow. Once three items are in place, the door will open. The fourth item will reveal the hidden alcove.
+* **N02** (L05, 18, 31) Pull the lever, then put any item on ground in the teleporter (do not throw it) so that it gets at `(L05, 20, 33)`. The door will then open.
+* **N03** You need to press the two buttons at `(L05, 24, 25)` and `(L05, 25, 28)` to open the wall. The two other buttons are already in the correct state.
+* **N04** A skeleton must walk on the pressure pad to open the wall. Leaving an item on floor will not work.
 
-Creatures
-01 (13,07) Skeleton
-02 (18,34) Wizard Eye
-03 (23,27) Wizard Eye
-04 (23,22) Skeleton (2)
-05 (30,23) Skeleton Generator (4)
-06 (34,22) Wizard Eye Generator (2)
-07 (34,20) Skeleton (2)
-08 (29,07) Skeleton (4)
-09 (11,15) Giant Wasp (3)
-10 (11,10) Skeleton (2)
-11 (05,11)-(06,12) Wizard Eye (4)
-12 (05,24) Wizard Eye Generator (1-4)
-13 (09,25) Skeleton (2)
-14 (11,21) Skeleton (4)
-15 (12,19) Skeleton (1)
-16 (11,27) Skeleton (4)
-17 (11,23) Skeleton (2)
-18 (12,33) Skeleton Generator (1-4)
-19 (15,33) Giant Wasp Generator (1)
-20 (16,32) Skeleton Generator (1)
-21 (23,33) Wizard Eye
+## モンスター（Monsters）
+* **M01** (L05, 13, 07) Skeleton
+* **M02** (L05, 18, 34) Wizard Eye
+* **M03** (L05, 23, 27) Wizard Eye
+* **M04** (L05, 23, 22) Skeleton (2)
+* **M05** (L05, 30, 23) Skeleton Generator (4)
+* **M06** (L05, 34, 22) Wizard Eye Generator (2)
+* **M07** (L05, 34, 20) Skeleton (2)
+* **M08** (L05, 29, 07) Skeleton (4)
+* **M09** (L05, 11, 15) Giant Wasp (3)
+* **M10** (L05, 11, 10) Skeleton (2)
+* **M11** (L05, 05, 11) to `(L05, 06, 12)` Wizard Eye (4)
+* **M12** (L05, 05, 24) Wizard Eye Generator (1-4)
+* **M13** (L05, 09, 25) Skeleton (2)
+* **M14** (L05, 11, 21) Skeleton (4)
+* **M15** (L05, 12, 19) Skeleton (1)
+* **M16** (L05, 11, 27) Skeleton (4)
+* **M17** (L05, 11, 23) Skeleton (2)
+* **M18** (L05, 12, 33) Skeleton Generator (1-4)
+* **M19** (L05, 15, 33) Giant Wasp Generator (1)
+* **M20** (L05, 16, 32) Skeleton Generator (1)
+* **M21** (L05, 23, 33) Wizard Eye
