@@ -71,36 +71,31 @@
   45678901234567890123456
 ```
 
-Items
-01 (43,31) Flamitt (Charges=7), The Hellion
+## アイテム (Items)
+* **T01** (L12, 43, 31) Flamitt (Charges=7), The Hellion
 
-Locks
-L01 (25,38) Skeleton Key
+## 鍵穴（Locks）
+* **L01** (L12, 25, 38) Skeleton Key
 
-Notes
-A. (35,41) Lord Chaos cannot be killed by using normal weapons and spells. You must use The Firestaff (completed with the power gem from Level 13) as follow:
+## 特殊ギミック注記（Notes）
+* **N01** (L12, 35, 41) Lord Chaos cannot be killed by using normal weapons and spells. You must use The Firestaff (completed with the power gem from L13) as follow: Use War Cry to “push” Lord Chaos into a corner, Block him by using the Fluxcage spell of The Firestaff all around him except on the square he is standing in. Use the Fuse spell of The Firestaff on Lord Chaos. The easiest way to Fuse Lord Chaos is to enter the small room at `(L12, 43, 31)`, close the doors and sleep. Lord Chaos will teleport himself into the room and wake you. You just have to make two fluxcages before you can fuse him.
 
-Use War Cry to “push” Lord Chaos into a corner,
-Block him by using the Fluxcage spell of The Firestaff all around him except on the square he is standing in.
-Use the Fuse spell of The Firestaff on Lord Chaos.
-The easiest way to Fuse Lord Chaos is to enter the small room at (43,31), close the doors and sleep. Lord Chaos will teleport himself into the room and wake you. You just have to make two fluxcages before you can fuse him.
-
-Creatures
-01 (27,48) Black Flame Generator (1)
-02 (32,31) Black Flame Generator (1)
-03 (37,40) Black Flame Generator (1)
-04 (38,40) Black Flame Generator (1)
-05 (39,40) Black Flame Generator (1)
-06 (37,42) Black Flame Generator (1)
-07 (38,42) Black Flame Generator (1)
-08 (38,47) Demon
-09 (43,46) Black Flame
-10 (43,41) Black Flame Generator (1)
-11 (44,40) Black Flame Generator (1)
-12 (45,39) Black Flame Generator (1)
-13 (42,39) Demon (2)
-14 (44,35) Demon (2)
-15 (44,34) Black Flame Generator (1)
-16 (39,33) Black Flame
-17 (40,30) Lord Chaos
-18 (44,30) Demon
+## モンスター（Monsters）
+* **M01** (L12, 27, 48) Black Flame Generator (1)
+* **M02** (L12, 32, 31) Black Flame Generator (1)
+* **M03** (L12, 37, 40) Black Flame Generator (1)
+* **M04** (L12, 38, 40) Black Flame Generator (1)
+* **M05** (L12, 39, 40) Black Flame Generator (1)
+* **M06** (L12, 37, 42) Black Flame Generator (1)
+* **M07** (L12, 38, 42) Black Flame Generator (1)
+* **M08** (L12, 38, 47) Demon
+* **M09** (L12, 43, 46) Black Flame
+* **M10** (L12, 43, 41) Black Flame Generator (1)
+* **M11** (L12, 44, 40) Black Flame Generator (1)
+* **M12** (L12, 45, 39) Black Flame Generator (1)
+* **M13** (L12, 42, 39) Demon (2)
+* **M14** (L12, 44, 35) Demon (2)
+* **M15** (L12, 44, 34) Black Flame Generator (1)
+* **M16** (L12, 39, 33) Black Flame
+* **M17** (L12, 40, 30) Lord Chaos
+* **M18** (L12, 44, 30) Demon
