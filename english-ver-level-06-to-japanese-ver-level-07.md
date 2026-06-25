@@ -80,58 +80,58 @@
   4567890123456789012345678901234
 ```
 
-Items
-01 (27,32) Magical Box (Green)
-02 (33,28) Scroll “Fireball Ful Ir. Fire Shield Ful Bro Neta.”
-03 (33,29) Scroll “Light Oh Ir Ra. Darkness Des Ir Sar.”, Apple, Corn
-04 (31,25) Scroll “The keys to passage lie hidden deep.”
-05 (09,20) Magical Box (Green)
-06 (09,23) Ven Potion, Ful Bomb, The Inquisitor
-07 (09,07) Empty Flask (3)
-08 (10,07) Scroll (3) “Neither Chaos nor Order is truly balanced”, “The Firestaff can restore balance or destroy it.”, “The power gem is sealed in the mountain by a strange magical force.”
-09 (10,06) Orange Gem, Corbamite, Magnifier
-10 (14,08) Torch (Charges=15)
-11 (18,08) Boulder, Rock
-12 (22,08) Empty Flask
-13 (26,08) Water Flask
-14 (29,08) Scroll “Balance is the ultimate good”
-15 (31,09) Ashes, Tourquoise Key
-16 (33,12) Ra Key, Scroll (5) “I fear for the people of the world should the power gem and the Firestaff get in the wrong hands”, “I have given the Firestaff much power. Power to do and undo. Power to break and mend.”, “The Firestaff can contain a being of pure alignment with its fluxcage.”, “Once fluxcaged a being can be transmuted by the power of the staff which should always be used for balance.”, “Zokathra might create a plasma that could burn through the amalgam encasing the gem.”
-17 (12,08) Bolt Blade (Charges=14), Flamebain
-18 (16,08) Magical Box (Green), Crown Of Nerra
-19 (20,08) Boots Of Speed, Dragon Spit (Charges=10)
-20 (24,08) Gem Of Ages, Illumulet, Sceptre Of Lyf (Charges=15)
-21 (05,06) Winged Key
-22 (19,20) The Firestaff
+## アイテム (Items)
+* **T01** (L06, 27, 32) Magical Box (Green)
+* **T02** (L06, 33, 28) Scroll “Fireball Ful Ir. Fire Shield Ful Bro Neta.”
+* **T03** (L06, 33, 29) Scroll “Light Oh Ir Ra. Darkness Des Ir Sar.”, Apple, Corn
+* **T04** (L06, 31, 25) Scroll “The keys to passage lie hidden deep.”
+* **T05** (L06, 09, 20) Magical Box (Green)
+* **T06** (L06, 09, 23) Ven Potion, Ful Bomb, The Inquisitor
+* **T07** (L06, 09, 07) Empty Flask (3)
+* **T08** (L06, 10, 07) Scroll (3) “Neither Chaos nor Order is truly balanced”, “The Firestaff can restore balance or destroy it.”, “The power gem is sealed in the mountain by a strange magical force.”
+* **T09** (L06, 10, 06) Orange Gem, Corbamite, Magnifier
+* **T10** (L06, 14, 08) Torch (Charges=15)
+* **T11** (L06, 18, 08) Boulder, Rock
+* **T12** (L06, 22, 08) Empty Flask
+* **T13** (L06, 26, 08) Water Flask
+* **T14** (L06, 29, 08) Scroll “Balance is the ultimate good”
+* **T15** (L06, 31, 09) Ashes, Tourquoise Key
+* **T16** (L06, 33, 12) Ra Key, Scroll (5) “I fear for the people of the world should the power gem and the Firestaff get in the wrong hands”, “I have given the Firestaff much power. Power to do and undo. Power to break and mend.”, “The Firestaff can contain a being of pure alignment with its fluxcage.”, “Once fluxcaged a being can be transmuted by the power of the staff which should always be used for balance.”, “Zokathra might create a plasma that could burn through the amalgam encasing the gem.”
+* **T17** (L06, 12, 08) Bolt Blade (Charges=14), Flamebain
+* **T18** (L06, 16, 08) Magical Box (Green), Crown Of Nerra
+* **T19** (L06, 20, 08) Boots Of Speed, Dragon Spit (Charges=10)
+* **T20** (L06, 24, 08) Gem Of Ages, Illumulet, Sceptre Of Lyf (Charges=15)
+* **T21** (L06, 05, 06) Winged Key
+* **T22** (L06, 19, 20) The Firestaff
 
-Inscriptions
-I01 (31,28) “The tomb of The Firestaff”
-I02 (10,10) “Danger Enter with caution”
-I03 (09,08) “Clean flasks”
-I04 (10,08) “Notes scrolls formulas spells”
-I05 (09,06) “Sundry supplies”
-I06 (14,07) “Fire elements”
-I07 (18,07) “Earth elements”
-I08 (22,07) “Air elements”
-I09 (26,07) “Water elements”
-I10 (33,11) “Reading room Keep out”. This inscription is actually not visible in the game because it is disabled. You can view it in a dungeon editor.
+## 壁の文字（Inscriptions）
+* **I01** (L06, 31, 28) “The tomb of The Firestaff”
+* **I02** (L06, 10, 10) “Danger Enter with caution”
+* **I03** (L06, 09, 08) “Clean flasks”
+* **I04** (L06, 10, 08) “Notes scrolls formulas spells”
+* **I05** (L06, 09, 06) “Sundry supplies”
+* **I06** (L06, 14, 07) “Fire elements”
+* **I07** (L06, 18, 07) “Earth elements”
+* **I08** (L06, 22, 07) “Air elements”
+* **I09** (L06, 26, 07) “Water elements”
+* **I10** (L06, 33, 11) “Reading room Keep out”. This inscription is actually not visible in the game because it is disabled. You can view it in a dungeon editor.
 
-Locks
-L01 (32,28) Ra Key
-L02 (32,25) Ra Key
-L03 (32,20) Ra Key
-L04 (25,10) Tourquoise Key
-L05 (21,10) Tourquoise Key
-L06 (17,10) Tourquoise Key
-L07 (13,10) Tourquoise Key
-L08 (08,10) Ruby Key
-L09 (08,11) Ra Key
-L10 (17,21) Master Key
-L11 (21,21) Master Key
+## 鍵穴（Locks）
+* **L01** (L06, 32, 28) Ra Key
+* **L02** (L06, 32, 25) Ra Key
+* **L03** (L06, 32, 20) Ra Key
+* **L04** (L06, 25, 10) Tourquoise Key
+* **L05** (L06, 21, 10) Tourquoise Key
+* **L06** (L06, 17, 10) Tourquoise Key
+* **L07** (L06, 13, 10) Tourquoise Key
+* **L08** (L06, 08, 10) Ruby Key
+* **L09** (L06, 08, 11) Ra Key
+* **L10** (L06, 17, 21) Master Key
+* **L11** (L06, 21, 21) Master Key
 
-Creatures
-01 (09,19) Stone Golem
-02 (09,22) Stone Golem
-03 (18,22) Stone Golem
-04 (20,22) Stone Golem
-05 (19,34) Stone Golem
+## モンスター（Monsters）
+* **M01** (L06, 09, 19) Stone Golem
+* **M02** (L06, 09, 22) Stone Golem
+* **M03** (L06, 18, 22) Stone Golem
+* **M04** (L06, 20, 22) Stone Golem
+* **M05** (L06, 19, 34) Stone Golem
