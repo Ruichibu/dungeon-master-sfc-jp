@@ -116,7 +116,7 @@
 ## ヴィーの祭壇 (Altar of VI)
 * **A01** (L00, 04, 17, S) 
 
-## チャンピオン (Champions)
+## 勇者 (Champions)
 * **C01** (L00, 10, 04, N) Iaido Ruyito Chiburi
 * **C02** (L00, 10, 05, S) Zed Duke Of Banville
 * **C03** (L00, 14, 03, N) Chani Sayyadina Sihaya
