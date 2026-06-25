@@ -96,14 +96,14 @@
 * **I02** (L00, 04, 17, E) “Vi Altar Of Rebirth”
 
 ## 特殊ギミック注記（Notes）
-* **A** (L00, 01, 04) You can use the spell “See Through Walls” in front of the door to see Lord Order. If you come back here with the Firestaff (not completed with the power gem), the door opens, then you are teleported in front of Lord Order where you can see an alternate game end.
-* **B** (L00, 09, 04) Choose four Dungeon Master Champions.
+* **N01** (L00, 01, 04) You can use the spell “See Through Walls” in front of the door to see Lord Order. If you come back here with the Firestaff (not completed with the power gem), the door opens, then you are teleported in front of Lord Order where you can see an alternate game end.
+* **N02** (L00, 09, 04) Choose four Dungeon Master Champions.
 
 ## 床スイッチ (Pressure plate)
 * **X01** (L00, 06, 09) 勇者を1人以上パーティに加入させている状態でこの床スイッチを踏むと(L00, 05, 09) のドアを開く。
 
 ## ヴィーの祭壇 (Altar of VI)
-* **A01** (L00, 04, 17, S) 
+* **V01** (L00, 04, 17, S) 
 
 ## 勇者 (Champions)
 * **C01** (L00, 10, 04, N) Iaido Ruyito Chiburi
