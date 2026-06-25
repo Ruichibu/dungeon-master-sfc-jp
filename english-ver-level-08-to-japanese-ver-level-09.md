@@ -41,3 +41,87 @@
 * `>` : 右回転スピナー (Spinner - 進入した向きから90度時計回りに回転する)
 * `<` : 左回転スピナー (Spinner - 進入した向きから90度反時計回りに回転する)
 * `^` : 180度回転スピナー (Spinner - 進入した向きから180度反転する)
+
+```
+  11111111122222222223333333333444
+  12345678901234567890123456789012
+04@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@04
+05@.@@@@@.....@@@......@@@...@@T@@05
+06@..M......@.@...@......@...@@@@@06
+07@..@.@@@..@....@@@@@@@.@......@@07
+08@...@@@@@@@@@@..@..XXX.@@@@@..@@08
+09@...@.......@@@@@..XXX.@@..@..@@09
+10@..@..@..@@S@.....@@@@.@@@.@..@@10
+11@..@.@..@.P@@.@@@@@..@...@.@..@@11
+12@@.@...@.@P...@@@@@.@@@..@.@@B@@12
+13@@@@..@@.@D@@@@@..@..@.....@@.@@13
+14@@@...@..@.......@@@...@.@@...@@14
+15@@@.@.@@....@@@.@@.@.@@@.@@..@@@15
+16@@.@@..@@@I@U@@....@.@.....@..@@16
+17@@M@@@..B..@.@@@@.@@@@.@@@.@@.@@17
+18@....@@@@B@@......@@@@.@@@.@..@@18
+19@@....@@..@@@@.@@@@.@@@@@.....@@19
+20@.@....@..@.....@@@.@..D..@@..@@20
+21@......@.@@@@@@@@.....@@@@@@.@@@21
+22@@..@....@.@..@S....@@@@@@@@..@@22
+23@@@.@.@@@@.@..@@@...@...@@@@@.@@23
+24@@.........@..B...@@@.@....@@.@@24
+25@@.@@...@@@@@@@.@@@P@.@@.@.@@.@@25
+26@.....@..@@.@@@.@......@T@..@@@@26
+27@@@@B@@@@@...@@.@.@@.@.@@@@..@@@27
+28@@.....@.B..@@@.@.@@@@.@.@@@...@28
+29@.@..@.@.@@@@@@.@@@@@@.@...@.@@@29
+30@......@...@@@@.@U@..@.@.@.@.@@@30
+31@@@.@@@.@@.@@U@.M.@..@.@.@.@.@@@31
+32@.....@....@@.@@@S@@..@@...@.@@@32
+33@.@.@.@@@......@@@@@@M.....@.@@@33
+34@.@@@@@...@@@@@@@U.S@@...@@@.@@@34
+35@..^...@@F@......@@@@..@.@...@@@35
+36@@@@@@......@..@...B....@@@@@@@@36
+37@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@37
+  11111111122222222223333333333444
+  12345678901234567890123456789012
+```
+
+Items
+01 (35,25) Vi Potion (2)
+02 (22,28) Scroll “Lightning bolt Oh Kath Ra”
+03 (35,28) Torch (Charges=15), Apple
+04 (31,30) Magical Box (Blue)
+05 (30,30) Pendant Feral
+06 (13,16) Storm Ring (Charges=4), Torch (Charges=15), Drumstick
+07 (40,05) Vi Potion, Chest [Green Gem, Scroll (“Put the gem back…”)]
+08 (28,06) Rope
+09 (15,06) Corbamite
+10 (15,07) Torch (Charges=15)
+11 (13,12) Dragon Steak, Corn, Apple, Cheese
+12 (30,19) Empty flask, Scroll “The spell Oh Ew Ra bestows magic vision.”
+13 (23,22) Ra Key
+
+Inscriptions
+I01 (19,34) “When is rock not rock”
+I02 (28,10) “What is under foot is soon overhead”
+I03 (35,20) “Lighter than a feather”
+
+Locks
+L01 (35,20) Corbamite
+L02 (26,30) Skeleton Key
+
+Notes
+A. “Put The Gem Back” puzzle: Use the lever twice to make the chest fall down the pit and close the pit again. Go downstairs from (08,22,10) and grab the chest. Get back upstairs then again upstairs from (08,23,16). Drop the Green Gem at (07,21,12). This will open the door at (08,21,13). Get back downstairs.
+Another solution is to jump in the pit (or Climb Down with a rope) instead of dropping the Green Gem. Then use the green button to open the door.
+B. Place items on the pressure plates to trigger the fireballs, and quickly move out of their way. Once each pressure plate is triggered, you can walk across safely. If you play with only two champions, place them in front and turn sideways when the fireballs are shot so that they pass behind your champions.
+
+Creatures
+01 (21,32) Pain Rat Generator (1)
+02 (27,35) Ruster
+03 (35,30) Vexirk [Cheese, Corn]
+04 (14,30) Pain Rat
+05 (14,19) Pain Rat
+06 (17,12) Vexirk (2) [Screamer Slice, Bread, Apple, Corn, Cheese]
+07 (26,14) Ruster
+08 (24,07) Ruster
+09 (12,06) Vexirk [Skeleton Key]
+10 (35,15) Ruster
+11 (35,05) Pain Rat Generator (1)
+12 (29,22) Pain Rat
