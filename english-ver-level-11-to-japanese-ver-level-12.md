@@ -82,58 +82,58 @@
   901234567890123456789012345678901
 ```
 
-Items
-01 (20,46) Snake Staff (Charges=15)
-02 (36,50) Corn, Bread
-03 (38,48) Drumstick
-04 (39,41) Topaz Key
-05 (21,42) Ra Key
-06 (39,35) Torch (Charges=15), Apple, Drumstick
-07 (43,48) Poleyn Of Darc
-08 (41,48) Plate Of Darc
-09 (49,50) Greave Of Darc
-10 (50,48) Shield Of Darc
-11 (48,27) Ya Potion, Vi Potion, Water Flask, Apple, Scroll “Invisibility Oh Ew Sar”
-12 (49,22) Drumstick, Slayer, Apple
-13 (47,20) Ful Bomb
-14 (48,20) Helm Of Darc
-15 (49,20) Skeleton Key
-16 (21,33) Apple
-17 (27,24) Corn (2)
-18 (23,22) Morningstar
-19 (41,32) Ful Bomb
-20 (47,32) Ven Potion
-21 (43,33) Helm Of Lyte
-22 (43,34) Apple
-23 (44,34) Boots Of Speed
-24 (32,32) Master Key
+## アイテム (Items)
+* **T01** (L11, 20, 46) Snake Staff (Charges=15)
+* **T02** (L11, 36, 50) Corn, Bread
+* **T03** (L11, 38, 48) Drumstick
+* **T04** (L11, 39, 41) Topaz Key
+* **T05** (L11, 21, 42) Ra Key
+* **T06** (L11, 39, 35) Torch (Charges=15), Apple, Drumstick
+* **T07** (L11, 43, 48) Poleyn Of Darc
+* **T08** (L11, 41, 48) Plate Of Darc
+* **T09** (L11, 49, 50) Greave Of Darc
+* **T10** (L11, 50, 48) Shield Of Darc
+* **T11** (L11, 48, 27) Ya Potion, Vi Potion, Water Flask, Apple, Scroll “Invisibility Oh Ew Sar”
+* **T12** (L11, 49, 22) Drumstick, Slayer, Apple
+* **T13** (L11, 47, 20) Ful Bomb
+* **T14** (L11, 48, 20) Helm Of Darc
+* **T15** (L11, 49, 20) Skeleton Key
+* **T16** (L11, 21, 33) Apple
+* **T17** (L11, 27, 24) Corn (2)
+* **T18** (L11, 23, 22) Morningstar
+* **T19** (L11, 41, 32) Ful Bomb
+* **T20** (L11, 47, 32) Ven Potion
+* **T21** (L11, 43, 33) Helm Of Lyte
+* **T22** (L11, 43, 34) Apple
+* **T23** (L11, 44, 34) Boots Of Speed
+* **T24** (L11, 32, 32) Master Key
 
-Inscriptions
-I01 (44,30) “Cowards will be hunted down and killed”
+## 壁の文字（Inscriptions）
+* **I01** (L11, 44, 30) “Cowards will be hunted down and killed”
 
-Locks
-L01 (25,46) Topaz Key
-L02 (24,42) Emerald Key
-L03 (30,37) Skeleton Key
+## 鍵穴（Locks）
+* **L01** (L11, 25, 46) Topaz Key
+* **L02** (L11, 24, 42) Emerald Key
+* **L03** (L11, 30, 37) Skeleton Key
 
-Creatures
-01 (31,48) Materializer
-02 (36,42) Materializer
-03 (39,41) Animated Armour
-04 (29,43) Animated Armour [Emerald Key]
-05 (44,38) Oitu
-06 (50,38) Materializer (2)
-07 (45,49) Materializer (4)
-08 (48,26) Animated Armour
-09 (48,22) Animated Armour (2)
-10 (20,32) Oitu
-11 (20,24) Animated Armour (2)
-12 (36,21) Oitu Generator (1)
-13 (41,31) Oitu Generator (1)
-14 (47,31) Oitu Generator (1)
-15 (42,32) Oitu
-16 (46,32) Oitu
-17 (43,33) Oitu
-18 (44,33) Oitu
-19 (45,33) Oitu
-20 (35,26) Materializer Generator (1-4)
+## モンスター（Monsters）
+* **M01** (L11, 31, 48) Materializer
+* **M02** (L11, 36, 42) Materializer
+* **M03** (L11, 39, 41) Animated Armour
+* **M04** (L11, 29, 43) Animated Armour [Emerald Key]
+* **M05** (L11, 44, 38) Oitu
+* **M06** (L11, 50, 38) Materializer (2)
+* **M07** (L11, 45, 49) Materializer (4)
+* **M08** (L11, 48, 26) Animated Armour
+* **M09** (L11, 48, 22) Animated Armour (2)
+* **M10** (L11, 20, 32) Oitu
+* **M11** (L11, 20, 24) Animated Armour (2)
+* **M12** (L11, 36, 21) Oitu Generator (1)
+* **M13** (L11, 41, 31) Oitu Generator (1)
+* **M14** (L11, 47, 31) Oitu Generator (1)
+* **M15** (L11, 42, 32) Oitu
+* **M16** (L11, 46, 32) Oitu
+* **M17** (L11, 43, 33) Oitu
+* **M18** (L11, 44, 33) Oitu
+* **M19** (L11, 45, 33) Oitu
+* **M20** (L11, 35, 26) Materializer Generator (1-4)
