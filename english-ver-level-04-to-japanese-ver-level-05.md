@@ -80,55 +80,55 @@
   4567890123456789012345678901234
 ```
 
-Items
-01 (18,16) Torch (Charges=15)
-02 (12,19) Mirror Of Dawn
-03 (12,14) Poison Dart
-04 (10,27) Gold Coin, Rabbit’s Foot
-05 (08,27) Blue Gem, Helmet
-06 (07,27) Poison Dart (2)
-07 (20,19) Gold Coin
-08 (17,28) Ekkhard Cross
-09 (17,29) Blue Gem, Mace
-10 (29,27) Gem Of Ages
-11 (32,28) Dagger
-12 (32,29) Hosen, Leg Mail, Mail Aketon, Helmet
-13 (33,12) Corn, Choker
-14 (30,06) Casque’n Coif
-15 (33,03) Staff Of Claws (Charges=0)
-16 (28,10) Illumulet
-17 (25,04) Large Shield
-18 (26,06) Drumstick, Torch (Charges=15)
-19 (16,08) Drumstick
-20 (14,08) Ven Potion
-21 (14,07) Ven Potion (2)
-22 (12,10) Chest [Bro Potion, Magical Box (Blue), Ful Bomb]
-23 (10,07) Blue Gem, Dane Potion
-24 (14,03) Ku Potion
+## アイテム (Items)
+* **T01** (L04, 18, 16) Torch (Charges=15)
+* **T02** (L04, 12, 19) Mirror Of Dawn
+* **T03** (L04, 12, 14) Poison Dart
+* **T04** (L04, 10, 27) Gold Coin, Rabbit’s Foot
+* **T05** (L04, 08, 27) Blue Gem, Helmet
+* **T06** (L04, 07, 27) Poison Dart (2)
+* **T07** (L04, 20, 19) Gold Coin
+* **T08** (L04, 17, 28) Ekkhard Cross
+* **T09** (L04, 17, 29) Blue Gem, Mace
+* **T10** (L04, 29, 27) Gem Of Ages
+* **T11** (L04, 32, 28) Dagger
+* **T12** (L04, 32, 29) Hosen, Leg Mail, Mail Aketon, Helmet
+* **T13** (L04, 33, 12) Corn, Choker
+* **T14** (L04, 30, 06) Casque’n Coif
+* **T15** (L04, 33, 03) Staff Of Claws (Charges=0)
+* **T16** (L04, 28, 10) Illumulet
+* **T17** (L04, 25, 04) Large Shield
+* **T18** (L04, 26, 06) Drumstick, Torch (Charges=15)
+* **T19** (L04, 16, 08) Drumstick
+* **T20** (L04, 14, 08) Ven Potion
+* **T21** (L04, 14, 07) Ven Potion (2)
+* **T22** (L04, 12, 10) Chest [Bro Potion, Magical Box (Blue), Ful Bomb]
+* **T23** (L04, 10, 07) Blue Gem, Dane Potion
+* **T24** (L04, 14, 03) Ku Potion
 
-Inscriptions
-I01 (17,12) “Treasure stores”
-I02 (13,27) “Store rooms”
+## 壁の文字（Inscriptions）
+* **I01** (L04, 17, 12) “Treasure stores”
+* **I02** (L04, 13, 27) “Store rooms”
 
-Notes
-A. (15,17) Take teleporters with letters alphabetically.
-B. (20,10) Directions to go through the room:
-N E E W E N W N E W E N N E to go from (20,10) to (23,05)
-W W W S S(!) S W W N S N N N W to go from (23,05) to (17,05)
-E S S S S E E S to go from (17,05) to (20,10)
+## 特殊ギミック注記（Notes）
+* **N01** (L04, 15, 17) Take teleporters with letters alphabetically.
+* **N02** (L04, 20, 10) Directions to go through the room:
+  * N E E W E N W N E W E N N E to go from `(L04, 20, 10)` to `(L04, 23, 05)`
+  * W W W S S(!) S W W N S N N N W to go from `(L04, 23, 05)` to `(L04, 17, 05)`
+  * E S S S S E E S to go from `(L04, 17, 05)` to `(L04, 20, 10)`
 
-Creatures
-01 (05,17) Swamp Slime Generator (1)
-02 (20,14) Swamp Slime
-03 (21,16) Screamer (2)
-04 (12,23) Couatl
-05 (17,18) Swamp Slime [Ven Potion]
-06 (31,27) Swamp Slime
-07 (33,16) Couatl
-08 (29,09) Swamp Slime (2)
-09 (27,04) Couatl
-10 (27,10) Couatl
-11 (24,05) Swamp Slime
-12 (17,05) Couatl Generator (1)
-13 (13,10) Couatl
-14 (11,02) Swamp Slime
+## モンスター（Monsters）
+* **M01** (L04, 05, 17) Swamp Slime Generator (1)
+* **M02** (L04, 20, 14) Swamp Slime
+* **M03** (L04, 21, 16) Screamer (2)
+* **M04** (L04, 12, 23) Couatl
+* **M05** (L04, 17, 18) Swamp Slime [Ven Potion]
+* **M06** (L04, 31, 27) Swamp Slime
+* **M07** (L04, 33, 16) Couatl
+* **M08** (L04, 29, 09) Swamp Slime (2)
+* **M09** (L04, 27, 04) Couatl
+* **M10** (L04, 27, 10) Couatl
+* **M11** (L04, 24, 05) Swamp Slime
+* **M12** (L04, 17, 05) Couatl Generator (1)
+* **M13** (L04, 13, 10) Couatl
+* **M14** (L04, 11, 02) Swamp Slime
