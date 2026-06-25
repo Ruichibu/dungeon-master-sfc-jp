@@ -83,68 +83,68 @@
   90123456789012345678901234567890
 ```
 
-Items
-01 (30,25) Yew Staff (Charges=12)
-02 (13,22) Key Of B
-03 (10,12) Apple, Bread
-04 (15,31) Corn, Cheese
-05 (35,27) Cheese, Water Flask, Ful Bomb
-06 (27,26) Corn
-07 (27,27) Torch (Charges=15)
-08 (16,36) Armet
-09 (10,31) Speedbow
-10 (24,35) Foot Plate, Leg Plate
-11 (22,37) Drumstick, Moonstone
-12 (24,37) Corn
-13 (32,40) Scroll “Shield potion Ya Bro. Magic shield Ya Ir.”
-14 (27,36) Torso Plate, Ful Bomb
-15 (25,36) Boots Of Speed
-16 (38,40) Bread
-17 (38,21) Bread
-18 (33,16) Shield Of Lyte, Scroll “Mana potion Zo Bro Ra creates a pure mana potion.”
-19 (36,10) Hardcleave
-20 (28,13) Magnifier
+## アイテム (Items)
+* **T01** (L09, 30, 25) Yew Staff (Charges=12)
+* **T02** (L09, 13, 22) Key Of B
+* **T03** (L09, 10, 12) Apple, Bread
+* **T04** (L09, 15, 31) Corn, Cheese
+* **T05** (L09, 35, 27) Cheese, Water Flask, Ful Bomb
+* **T06** (L09, 27, 26) Corn
+* **T07** (L09, 27, 27) Torch (Charges=15)
+* **T08** (L09, 16, 36) Armet
+* **T09** (L09, 10, 31) Speedbow
+* **T10** (L09, 24, 35) Foot Plate, Leg Plate
+* **T11** (L09, 22, 37) Drumstick, Moonstone
+* **T12** (L09, 24, 37) Corn
+* **T13** (L09, 32, 40) Scroll “Shield potion Ya Bro. Magic shield Ya Ir.”
+* **T14** (L09, 27, 36) Torso Plate, Ful Bomb
+* **T15** (L09, 25, 36) Boots Of Speed
+* **T16** (L09, 38, 40) Bread
+* **T17** (L09, 38, 21) Bread
+* **T18** (L09, 33, 16) Shield Of Lyte, Scroll “Mana potion Zo Bro Ra creates a pure mana potion.”
+* **T19** (L09, 36, 10) Hardcleave
+* **T20** (L09, 28, 13) Magnifier
 
-Inscriptions
-I01 (24,22) “Beware my twisted humor the deceiver the snake”
-I02 (13,22) “Choose a door”
-I03 (32,23) “Zooooom”
+## 壁の文字（Inscriptions）
+* **I01** (L09, 24, 22) “Beware my twisted humor the deceiver the snake”
+* **I02** (L09, 13, 22) “Choose a door”
+* **I03** (L09, 32, 23) “Zooooom”
 
-Locks
-L01 (13,21) Key Of B
-L02 (13,23) Key Of B
-L03 (29,22) Key Of B
-L04 (30,32) Skeleton Key
+## 鍵穴（Locks）
+* **L01** (L09, 13, 21) Key Of B
+* **L02** (L09, 13, 23) Key Of B
+* **L03** (L09, 29, 22) Key Of B
+* **L04** (L09, 30, 32) Skeleton Key
 
-Notes
-A. (15,33) Creatures in this room are kept in place by invisible teleporters. Some of them are disabled by pressing the button at (16,33) or by walking at (11,41).
-B. When you reach a corner of the Zooooom, you are teleported one step forward and turned 90 degrees. So if you enter the Zooooom forward, you have to step out of it with a step to the right.
+## 特殊ギミック注記（Notes）
+* **N01** (L09, 15, 33) Creatures in this room are kept in place by invisible teleporters. Some of them are disabled by pressing the button at `(L09, 16, 33)` or by walking at `(L09, 11, 41)`.
+* **N02** When you reach a corner of the Zooooom, you are teleported one step forward and turned 90 degrees. So if you enter the Zooooom forward, you have to step out of it with a step to the right.
 
-Creatures
-01 (15,22) Wizard Eye Generator (1-4)
-02 (13,21) Skeleton
-03 (17,16) Giggler
-04 (20,17) Wizard Eye (3) [Key Of B]
-05 (13,27) Skeleton (4) [Key Of B]
-06 (18,27) Giant Scorpion
-07 (25,31) Wizard Eye (2)
-08 (10,33) Skeleton (4)
-09 (10,34) Giggler (2)
-10 (15,35) Wizard Eye
-11 (15,36) Skeleton
-12 (15,37) Wizard Eye
-13 (14,38) Wizard Eye
-14 (13,39) Skeleton
-15 (14,39) Wizard Eye
-16 (12,41) Giggler Generator (1)
-17 (23,34) Giggler
-18 (26,39) Giggler Generator (1)
-19 (28,41) Giant Scorpion
-20 (33,40) Skeleton
-21 (39,28) Giant Scorpion
-22 (37,25) Wizard Eye Generator (1-4)
-23 (35,19) Giggler
-24 (31,17) Giant Scorpion Generator (1)
-25 (33,16) Wizard Eye [Skeleton Key]
-26 (27,13) Giant Scorpion
-27 (21,15) Giggler
+## モンスター（Monsters）
+* **M01** (L09, 15, 22) Wizard Eye Generator (1-4)
+* **M02** (L09, 13, 21) Skeleton
+* **M03** (L09, 17, 16) Giggler
+* **M04** (L09, 20, 17) Wizard Eye (3) [Key Of B]
+* **M05** (L09, 13, 27) Skeleton (4) [Key Of B]
+* **M06** (L09, 18, 27) Giant Scorpion
+* **M07** (L09, 25, 31) Wizard Eye (2)
+* **M08** (L09, 10, 33) Skeleton (4)
+* **M09** (L09, 10, 34) Giggler (2)
+* **M10** (L09, 15, 35) Wizard Eye
+* **M11** (L09, 15, 36) Skeleton
+* **M12** (L09, 15, 37) Wizard Eye
+* **M13** (L09, 14, 38) Wizard Eye
+* **M14** (L09, 13, 39) Skeleton
+* **M15** (L09, 14, 39) Wizard Eye
+* **M16** (L09, 12, 41) Giggler Generator (1)
+* **M17** (L09, 23, 34) Giggler
+* **M18** (L09, 26, 39) Giggler Generator (1)
+* **M19** (L09, 28, 41) Giant Scorpion
+* **M20** (L09, 33, 40) Skeleton
+* **M21** (L09, 39, 28) Giant Scorpion
+* **M22** (L09, 37, 25) Wizard Eye Generator (1-4)
+* **M23** (L09, 35, 19) Giggler
+* **M24** (L09, 31, 17) Giant Scorpion Generator (1)
+* **M25** (L09, 33, 16) Wizard Eye [Skeleton Key]
+* **M26** (L09, 27, 13) Giant Scorpion
+* **M27** (L09, 21, 15) Giggler
