@@ -79,6 +79,7 @@
 
 ## 特殊ギミック注記（Notes）
 * **N01** (L12, 35, 41) Lord Chaos cannot be killed by using normal weapons and spells. You must use The Firestaff (completed with the power gem from L13) as follow: Use War Cry to “push” Lord Chaos into a corner, Block him by using the Fluxcage spell of The Firestaff all around him except on the square he is standing in. Use the Fuse spell of The Firestaff on Lord Chaos. The easiest way to Fuse Lord Chaos is to enter the small room at `(L12, 43, 31)`, close the doors and sleep. Lord Chaos will teleport himself into the room and wake you. You just have to make two fluxcages before you can fuse him.
+**N02 (SFC版固有の仕様)** LEVEL 12の下り階段を北向きに降りた場合、SFC版ではLEVEL 13の上り階段の1マス東側に「東向き」で出現します。PC版基準の座標・方角からズレが発生するため、SFC版でのプレイやマッピング時は退路も含めて注意してください。
 
 ## モンスター（Monsters）
 * **M01** (L12, 27, 48) Black Flame Generator (1)
