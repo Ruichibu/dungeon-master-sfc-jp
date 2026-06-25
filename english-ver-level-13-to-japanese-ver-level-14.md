@@ -62,39 +62,38 @@
   9012345678901234567890
 ```
 
-Items
-01 (34,42) Copper Coin
-02 (35,39) Silver Coin
-03 (35,43) Silver Coin
-04 (37,38) Copper Coin
-05 (37,42) Boulder
-06 (37,44) Copper Coin
-07 (38,41) Silver Coin, Boulder
-08 (39,40) Ashes
-09 (40,39) Boulder
-10 (40,42) Copper Coin
-11 (41,41) Ashes
-12 (42,42) Ashes
-13 (43,40) Square Key, Ashes
-14 (43,43) Boulder
-15 (44,39) Boulder
-16 (44,42) Ashes
-17 (44,43) Ashes
-18 (45,40) Ashes
-19 (47,40) Copper Coin (3), Gold Coin, Calista
-20 (47,42) Blue Gem, Green Gem (2), Eye Of Time (Charges=5)
-21 (48,38) Silver Coin
-22 (49,36) Scroll “Only the touch of the proper spell will free the gem and only the Firestaff can possess it.”
-23 (48,33) Copper Coin
+## アイテム (Items)
+* **T01** (L13, 34, 42) Copper Coin
+* **T02** (L13, 35, 39) Silver Coin
+* **T03** (L13, 35, 43) Silver Coin
+* **T04** (L13, 37, 38) Copper Coin
+* **T05** (L13, 37, 42) Boulder
+* **T06** (L13, 37, 44) Copper Coin
+* **T07** (L13, 38, 41) Silver Coin, Boulder
+* **T08** (L13, 39, 40) Ashes
+* **T09** (L13, 40, 39) Boulder
+* **T10** (L13, 40, 42) Copper Coin
+* **T11** (L13, 41, 41) Ashes
+* **T12** (L13, 42, 42) Ashes
+* **T13** (L13, 43, 40) Square Key, Ashes
+* **T14** (L13, 43, 43) Boulder
+* **T15** (L13, 44, 39) Boulder
+* **T16** (L13, 44, 42) Ashes
+* **T17** (L13, 44, 43) Ashes
+* **T18** (L13, 45, 40) Ashes
+* **T19** (L13, 47, 40) Copper Coin (3), Gold Coin, Calista
+* **T20** (L13, 47, 42) Blue Gem, Green Gem (2), Eye Of Time (Charges=5)
+* **T21** (L13, 48, 38) Silver Coin
+* **T22** (L13, 49, 36) Scroll “Only the touch of the proper spell will free the gem and only the Firestaff can possess it.”
+* **T23** (L13, 48, 33) Copper Coin
 
-Locks
-L01 (48,41) Square Key
-L02 (48,38) Gold Coin (2), Silver Coin
-L03 (28,41) Winged Key
+## 鍵穴（Locks）
+* **L01** (L13, 48, 41) Square Key
+* **L02** (L13, 48, 38) Gold Coin (2), Silver Coin
+* **L03** (L13, 28, 41) Winged Key
 
-Notes
-A. (49,36) Cast the spell Zo Kath Ra. Use the spell to free the power gem, then use the Firestaff on it to combine them.
-Getting out of this room with the complete Firestaff will activate the pressure pad at (49,39), which toggles two walls on level 12 preventing you from going to the upper levels. You can avoid that by throwing the complete Firestaff through the door to the south before stepping on the pressure plate.
+## 特殊ギミック注記（Notes）
+* **N01** (L13, 49, 36) Cast the spell Zo Kath Ra. Use the spell to free the power gem, then use the Firestaff on it to combine them. Getting out of this room with the complete Firestaff will activate the pressure pad at `(L13, 49, 39)`, which toggles two walls on L12 preventing you from going to the upper levels. You can avoid that by throwing the complete Firestaff through the door to the south before stepping on the pressure plate.
 
-Creatures
-01 (49,41) Red Dragon
+## モンスター（Monsters）
+* **M01** (L13, 49, 41) Red Dragon
