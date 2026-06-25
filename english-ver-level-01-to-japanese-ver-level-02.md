@@ -123,50 +123,50 @@
 
 ## 壁の文字（Inscriptions）
 
-* **I01 (L01, 30, 16, W) “Step inside take a ride”**
-* **I02 (L01, 21, 22, E) “This wall says nothing”**
-* **I03 (L01, 14, 30, W) “To close pit leave a valuable on floor”**
-* **I04 (L01, 28, 42, N) “None shall pass”**
-* **I05 (L01, 18, 41, N) “This fountain accepts one wish.”**
+* **I01 (L01, 29, 16, E) “Step inside take a ride”**
+* **I02 (L01, 22, 22, W) “This wall says nothing”**
+* **I03 (L01, 13, 30, E) “To close pit leave a valuable on floor”**
+* **I04 (L01, 28, 41, S) “None shall pass”**
+* **I05 (L01, 18, 40, S) “This fountain accepts one wish.”**
 
 
 ## 水飲み場（Water Fountain）
 
-* **W01** (L01, 04, 20, W)
-* **W02** (L01, 10, 17, W)
-* **W03** (L01, 10, 13, S)
-* **W04** (L01, 21, 17, W)
-* **W05** (L01, 26, 20, W)
-* **W06** (L01, 27, 25, N)
-* **W07** (L01, 30, 25, W)
-* **W08** (L01, 26, 27, E)
-* **W09** (L01, 29, 27, S)
-* **W10** (L01, 28, 32, N)
-* **W11** (L01, 14, 34, N)
-* **W12** (L01, 12, 36, N)
-* **W13** (L01, 12, 28, E)
-* **W14** (L01, 18, 38, S)
-* **W15** (L01, 15, 41, N)
-* **W16** (L01, 11, 44, E)
-* **W17** (L01, 00, 36, N)
-* **W18** (L01, 03, 36, W)
-
+* **W01** (L01, 03, 20, E)
+* **W02** (L01, 09, 17, E)
+* **W03** (L01, 10, 14, N)
+* **W04** (L01, 20, 17, E)
+* **W05** (L01, 25, 20, E)
+* **W06** (L01, 27, 24, S)
+* **W07** (L01, 29, 25, E)
+* **W08** (L01, 27, 27, W)
+* **W09** (L01, 29, 28, N)
+* **W10** (L01, 28, 31, S)
+* **W11** (L01, 14, 33, S)
+* **W12** (L01, 11, 35, S)
+* **W13** (L01, 13, 28, W)
+* **W14** (L01, 18, 40, N)
+* **W15** (L01, 15, 40, S)
+* **W16** (L01, 11, 44, W)
+* **W17** (L01, 00, 35, S)
+* **W18** (L01, 01, 36, E)
+* **W19** (L01, 06, 43, S)
 
 ## 鍵穴（Locks）
 
-* **L01 (L01, 00, 17, N) Gold Key** -> Open Door (L01, 01, 17)
-* **L02 (L01, 03, 18, S) Topaz Key** -> Open Door (L01, 04, 19)
-* **L03 (L01, 05, 18, S) Gold Key** -> Open Door (L01, 06, 19)
-* **L04 (L01, 12, 27, W) Emerald Key** -> Open Door (L01, 11, 26)
-* **L05 (L01, 02, 26, S) Iron Key** -> Open Door (L01, 03, 27)
-* **L06 (L01, 05, 26, S) Solid Key** -> Open Door (L01, 06, 27)
-* **L07 (L01, 10, 15, N) Gold Key** -> Open Door (L01, 11, 14)
-* **L08 (L01, 23, 19, W) Gold Key** -> Open Door (L01, 22, 18)
-* **L09 (L01, 28, 19, N) Gold Key** -> Open Door (L01, 27, 18)
-* **L10 (L01, 30, 22, N) Iron Key** -> Open Door (L01, 31, 22)
-* **L11 (L01, 24, 25, N) Key of B** -> Open Door (L01, 25, 25)
-* **L12 (L01, 21, 36, N) Gold Key** -> Open Door (L01, 22, 35)
-* **L13 (L01, 18, 39, S) Copper Coin** -> Open Door (L01, 17, 40)
+* **L01 (L01, 00, 16, S) Gold Key** -> Open Door (L01, 01, 17)
+* **L02 (L01, 03, 19, N) Topaz Key** -> Open Door (L01, 04, 19)
+* **L03 (L01, 05, 19, N) Gold Key** -> Open Door (L01, 06, 19)
+* **L04 (L01, 11, 27, E) Emerald Key** -> Open Door (L01, 11, 26)
+* **L05 (L01, 02, 27, N) Iron Key** -> Open Door (L01, 03, 27)
+* **L06 (L01, 05, 27, N) Solid Key** -> Open Door (L01, 06, 27)
+* **L07 (L01, 10, 14, S) Gold Key** -> Open Door (L01, 11, 14)
+* **L08 (L01, 22, 19, E) Gold Key** -> Open Door (L01, 22, 18)
+* **L09 (L01, 28, 18, S) Gold Key** -> Open Door (L01, 27, 18)
+* **L10 (L01, 30, 21, S) Iron Key** -> Open Door (L01, 31, 22)
+* **L11 (L01, 24, 24, S) Key of B** -> Open Door (L01, 25, 25)
+* **L12 (L01, 21, 35, S) Gold Key** -> Open Door (L01, 22, 35)
+* **L13 (L01, 18, 40, N) Copper Coin** -> Open Door (L01, 17, 40)
 
 ## Buttons
 B01
