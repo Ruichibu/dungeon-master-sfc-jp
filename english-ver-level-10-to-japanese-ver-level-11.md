@@ -43,3 +43,116 @@
 * `^` : 180度回転スピナー (Spinner - 進入した向きから180度反転する)
 
 ```
+  01111111111222222222233333333334
+  90123456789012345678901234567890
+10@T...U@....@@@@@@@@@@@@.@@@@@@@@10
+11@.@@.@@.@@T@@....@@..@@.I.@@@@@@11
+12@.@@.@@.@@.@@@@@..@.....@.@@@@@@12
+13@....@@....@..@@......@@@M@@@@.@13
+14@@@@@@@@@@@@..B...@.@@@@@M.@...@14
+15@@@@@@@@@@@@@@@.@@..@...@@@@.@.@15
+16@....@@....L.M...@.@@...@......@16
+17@.@@.@@.@@.@@@@.@@......@..@.@@@17
+18@T@@.@@.@@.@@@@.@@@@B@@@@..@..@@18
+19@....@@..T.@@@@.@@.@.@.@@......@19
+20@@@@@@@@@@@@....@@.....@I..@.@.@20
+21@.@.@@@@@@@@.@@@.@@@.@@@.@@@.@.@21
+22@@.@.@@@.B...@@..L.....L.@.....@22
+23@@@@@@@..@@@@....@@@L@@@@@.@@.@@23
+24@@......@@@...@@@...I@@.@...@.@@24
+25@@@@@@@@....@@@.....@@@........@25
+26@@@@.....@.@@...@@@.@....@@.@@.@26
+27@@@@@..@...@..@...@@@@@.@@@....@27
+28@@@...@@.@@...@...@.........@.@@28
+29@@...@@..@...@@@.@@..@@@@@@...@@29
+30@.......@@@@@@...@XI@XXT@@..@@@@30
+31@..@..@@@......@@@D@@X@X@@@@@@@@31
+32@@.@.@@.@.@@@@@@...@@X@X@@@@@@@@32
+33@....@@....IXD.@.@@@@.MX@@@@@@@@33
+34@.@@@..@@@@@@@...@@U@.@@U.S@@@@@34
+35@.........IXD..@@...M.@@@@@@@@@@35
+36@@@@@..@@@@@@@.@@@@S@..@F.@@@@@@36
+37@....@@....B...@.@@@@B@FF@@..@@@37
+38@.@........@@@@..B..@...@S@..@@@38
+39@@..@.@@@@@@.@@..@..@@@.@.@@.@@@39
+40@@@.@.@..........B...........@@@40
+41@.M.@...@@@@.@@@@@@@@@@@@@@@@@@@41
+42@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@42
+  01111111111222222222233333333334
+  90123456789012345678901234567890
+```
+
+Items
+01 (13,13) Staff
+02 (16,10) Iron Key
+03 (16,13) Foot Plate
+04 (16,16) Morningstar
+05 (13,16) Sabre
+06 (21,16) Chest [Solid Key]
+07 (11,24) Diamond Edge
+08 (22,13) Fury (Charges=8)
+09 (35,14) Skeleton Key
+10 (29,21) Cross Key
+11 (17,25) Copper Coin
+12 (12,28) Copper Coin
+13 (28,26) Cheese
+14 (21,29) Copper Coin
+15 (16,32) Copper Coin
+16 (38,14) Copper Coin
+17 (32,24) Drumstick
+18 (36,30) Copper Coin
+19 (10,41) Plate Of Lyte, Poleyn Of Lyte, Greave Of Lyte
+20 (36,38) Ven Potion
+21 (36,38) Ful Bomb
+22 (36,37) Ful Bomb, Magical Box (Green)
+23 (36,37) Copper Coin (2)
+24 (37,37) Cross Key
+25 (37,37) Chest [Drumstick (4), Cheese (2), Bread (2)]
+26 (37,38) Magical Box (Green)
+27 (34,36) Boots Of Speed
+28 (26,35) Scroll “The only way out is another way in.”
+29 (32,30) Ruby Key
+
+Inscriptions
+I01 (10,13) “Turn back”
+I02 (19,10) “Clockwise”
+I03 (30,35) “Enlarge my view”
+
+Locks
+L01 (19,16) Iron Key
+L02 (27,22) Cross Key
+L03 (28,22) Cross Key
+L04 (31,22) Cross Key
+L05 (30,34) Skeleton Key
+L06 (30,34) Magnifier (In fact, any item will open this lock. Even though the lock does specify a Magnifier item, it is configured to accept any item instead of only the specified one. The dungeon designer either made a mistake or thought it was too hard to find the Magnifier)
+L07-13 (36,37)-(37,38) Copper Coin (7)
+
+Creatures
+01 (10,21) Giant Wasp
+02 (11,22) Giant Wasp
+03 (12,21) Giant Wasp
+04 (13,22) Giant Wasp
+05 (20,22) Giggler
+06 (29,20) Giant Wasp (2)
+07 (24,23) Trolin (2)
+08 (19,25) Trolin (4)
+09 (16,26) Trolin
+10 (17,29) Trolin (4)
+11 (13,26) Trolin Generator (1-4)
+12 (14,28) Giggler
+13 (13,30) Trolin (4)
+14 (10,30) Trolin (3)
+15 (14,35) Trolin (4)
+16 (26,25) Water Elemental
+17 (20,29) Giggler
+18 (16,32) Water Elemental Generator (1)
+19 (33,22) Giggler
+20 (37,19) Giant Wasp (2)
+21 (39,13) Giant Wasp Generator (2)
+22 (37,22) Giggler
+23 (35,24) Giant Wasp
+24 (38,29) Giggler
+25 (35,30) Giant Wasp Generator (2)
+26 (32,28) Giant Wasp
+27 (17,38) Water Elemental
+28 (27,39) Giant Wasp Generator (2)
