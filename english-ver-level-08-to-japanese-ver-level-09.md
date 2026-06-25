@@ -83,45 +83,44 @@
   12345678901234567890123456789012
 ```
 
-Items
-01 (35,25) Vi Potion (2)
-02 (22,28) Scroll “Lightning bolt Oh Kath Ra”
-03 (35,28) Torch (Charges=15), Apple
-04 (31,30) Magical Box (Blue)
-05 (30,30) Pendant Feral
-06 (13,16) Storm Ring (Charges=4), Torch (Charges=15), Drumstick
-07 (40,05) Vi Potion, Chest [Green Gem, Scroll (“Put the gem back…”)]
-08 (28,06) Rope
-09 (15,06) Corbamite
-10 (15,07) Torch (Charges=15)
-11 (13,12) Dragon Steak, Corn, Apple, Cheese
-12 (30,19) Empty flask, Scroll “The spell Oh Ew Ra bestows magic vision.”
-13 (23,22) Ra Key
+## アイテム (Items)
+* **T01** (L08, 35, 25) Vi Potion (2)
+* **T02** (L08, 22, 28) Scroll “Lightning bolt Oh Kath Ra”
+* **T03** (L08, 35, 28) Torch (Charges=15), Apple
+* **T04** (L08, 31, 30) Magical Box (Blue)
+* **T05** (L08, 30, 30) Pendant Feral
+* **T06** (L08, 13, 16) Storm Ring (Charges=4), Torch (Charges=15), Drumstick
+* **T07** (L08, 40, 05) Vi Potion, Chest [Green Gem, Scroll (“Put the gem back…”)]
+* **T08** (L08, 28, 06) Rope
+* **T09** (L08, 15, 06) Corbamite
+* **T10** (L08, 15, 07) Torch (Charges=15)
+* **T11** (L08, 13, 12) Dragon Steak, Corn, Apple, Cheese
+* **T12** (L08, 30, 19) Empty flask, Scroll “The spell Oh Ew Ra bestows magic vision.”
+* **T13** (L08, 23, 22) Ra Key
 
-Inscriptions
-I01 (19,34) “When is rock not rock”
-I02 (28,10) “What is under foot is soon overhead”
-I03 (35,20) “Lighter than a feather”
+## 壁の文字（Inscriptions）
+* **I01** (L08, 19, 34) “When is rock not rock”
+* **I02** (L08, 28, 10) “What is under foot is soon overhead”
+* **I03** (L08, 35, 20) “Lighter than a feather”
 
-Locks
-L01 (35,20) Corbamite
-L02 (26,30) Skeleton Key
+## 鍵穴（Locks）
+* **L01** (L08, 35, 20) Corbamite
+* **L02** (L08, 26, 30) Skeleton Key
 
-Notes
-A. “Put The Gem Back” puzzle: Use the lever twice to make the chest fall down the pit and close the pit again. Go downstairs from (08,22,10) and grab the chest. Get back upstairs then again upstairs from (08,23,16). Drop the Green Gem at (07,21,12). This will open the door at (08,21,13). Get back downstairs.
-Another solution is to jump in the pit (or Climb Down with a rope) instead of dropping the Green Gem. Then use the green button to open the door.
-B. Place items on the pressure plates to trigger the fireballs, and quickly move out of their way. Once each pressure plate is triggered, you can walk across safely. If you play with only two champions, place them in front and turn sideways when the fireballs are shot so that they pass behind your champions.
+## 特殊ギミック注記（Notes）
+* **N01** “Put The Gem Back” puzzle: Use the lever twice to make the chest fall down the pit and close the pit again. Go downstairs from `(L08, 22, 10)` and grab the chest. Get back upstairs then again upstairs from `(L08, 23, 16)`. Drop the Green Gem at `(L07, 21, 12)`. This will open the door at `(L08, 21, 13)`. Get back downstairs. Another solution is to jump in the pit (or Climb Down with a rope) instead of dropping the Green Gem. Then use the green button to open the door.
+* **N02** Place items on the pressure plates to trigger the fireballs, and quickly move out of their way. Once each pressure plate is triggered, you can walk across safely. If you play with only two champions, place them in front and turn sideways when the fireballs are shot so that they pass behind your champions.
 
-Creatures
-01 (21,32) Pain Rat Generator (1)
-02 (27,35) Ruster
-03 (35,30) Vexirk [Cheese, Corn]
-04 (14,30) Pain Rat
-05 (14,19) Pain Rat
-06 (17,12) Vexirk (2) [Screamer Slice, Bread, Apple, Corn, Cheese]
-07 (26,14) Ruster
-08 (24,07) Ruster
-09 (12,06) Vexirk [Skeleton Key]
-10 (35,15) Ruster
-11 (35,05) Pain Rat Generator (1)
-12 (29,22) Pain Rat
+## モンスター（Monsters）
+* **M01** (L08, 21, 32) Pain Rat Generator (1)
+* **M02** (L08, 27, 35) Ruster
+* **M03** (L08, 35, 30) Vexirk [Cheese, Corn]
+* **M04** (L08, 14, 30) Pain Rat
+* **M05** (L08, 14, 19) Pain Rat
+* **M06** (L08, 17, 12) Vexirk (2) [Screamer Slice, Bread, Apple, Corn, Cheese]
+* **M07** (L08, 26, 14) Ruster
+* **M08** (L08, 24, 07) Ruster
+* **M09** (L08, 12, 06) Vexirk [Skeleton Key]
+* **M10** (L08, 35, 15) Ruster
+* **M11** (L08, 35, 05) Pain Rat Generator (1)
+* **M12** (L08, 29, 22) Pain Rat
