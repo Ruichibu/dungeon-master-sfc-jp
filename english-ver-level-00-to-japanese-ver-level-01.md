@@ -81,20 +81,6 @@
   * `(L00, 04, 15)` にある下り階段（S）を前を向いて降りると、次の階層である `(L01, 03, 14)` の通路（上り階段の一歩手前のマス）へと移動する。このとき、階段を背にした状態になるため、向きは**「北（階段とは反対の方向）」**を向いた状態になる。
 
 ## Items
-
-* **T01** (L00, 04, 09) Apple
-* **T02** (L00, 05, 11) Bread
-* **T03** (L00, 04, 14) Torch (Charges=15)
-* **T04** (L00, 04, 15) Water (Charges=3), Scroll ("Invoke Ful for a magic torch")
-* **T05** (L00, 04, 17) Scroll ("New lives for old bones")
-* **T06** (L00, 00, 16) Corn
-* **T07** (L00, 02, 13) Bread
-* **T08** (L00, 02, 12) Cheese
-* **T09** (L00, 02, 11) Apple
-
-## LEVEL 00 データ集
-
-## Items
 * **T01** (L00, 04, 09) Apple
 * **T02** (L00, 05, 11) Bread
 * **T03** (L00, 04, 14) Torch (Charges=15)
